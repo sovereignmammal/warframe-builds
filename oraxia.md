@@ -8,7 +8,7 @@
 - Efficiency **45%** (Blind Rage)
 - Range **145%** (Stretch)
 - Strength **299%** (Blind Rage + Intensify + Power Drift + TF)
-- Webbed Embrace: **~5s shorter**. Worth it.
+- Webbed Embrace: **36s → 29s**. Worth it.
 - 4 drain is worse on paper — Kiss orbs + Equilibrium still keep it up
 
 Kiss at 299%: **50% execute does not scale**. Health orbs **~598%**, energy orbs **~150%**. Instant-kill claw icon → E.
@@ -34,7 +34,7 @@ Silken Stride extra Toxin scales with this Strength. Latron Incarnon still gets 
 
 ## Locked 8th
 
-TF stays. **+55% Strength** vs **−5s** on 2 is the correct trade.
+TF stays. **+55% Strength** vs **36s → 29s** on 2 is the correct trade.
 
 **Not** Energy Nexus. **Not** Primed Continuity (conflicts with Archon). **Not** Precision Intensify. **Not** Armored Agility.
 
