@@ -13,7 +13,7 @@
 
 Kiss at 299%: **50% execute does not scale**. Health orbs **~598%**, energy orbs **~150%**. Instant-kill claw icon → E.
 
-Silken Stride extra Toxin scales with this Strength. Latron Incarnon still gets **0** of that hit. Scyotid does.
+Silken Stride extra Toxin scales with this Strength. Burston Incarnon still gets **0** of that hit. Scyotid does.
 
 ## Mods
 
@@ -41,7 +41,4 @@ TF stays. **+55% Strength** vs **36s → 29s** on 2 is the correct trade.
 ## Play
 
 4 up → Scyotid snare → Latron the ball → Kiss anything with a claw for orbs. Companion: **Seismic Bond** if you have it.
-
-## Shards (when you commit)
-
-2 Amber cast speed. Rest Crimson Strength or Emerald Toxin.
+
