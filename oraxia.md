@@ -2,17 +2,18 @@
 
 **Do not Helminth 1.** Mercy’s Kiss is the battery. E in 4 is Kiss, not melee. Relatch a wall/ceiling every ~8s for invis + Arachne (if you ever swap onto it).
 
-## Stats to expect (before Transient Fortitude)
+## Stats (Transient Fortitude on)
 
-- Duration **145%** (Archon Continuity only)
+- Duration **117%** (Archon Continuity, TF tax)
 - Efficiency **45%** (Blind Rage)
 - Range **145%** (Stretch)
-- Strength **244%** (Blind Rage + Intensify + Power Drift)
-- 4 drain **~5.34/s** — Kiss orbs + Equilibrium keep it up anyway
+- Strength **299%** (Blind Rage + Intensify + Power Drift + TF)
+- Webbed Embrace: **~5s shorter**. Worth it.
+- 4 drain is worse on paper — Kiss orbs + Equilibrium still keep it up
 
-Kiss at 244%: **50% execute does not scale**. Health orbs **488%**, energy orbs **122%**. Instant-kill claw icon → E.
+Kiss at 299%: **50% execute does not scale**. Health orbs **~598%**, energy orbs **~150%**. Instant-kill claw icon → E.
 
-Silken Stride at 244%: **3.44× HP**, **97%** extra Toxin on guns (**195%** wall-latched), **1220** explosion / **7.25m**. Latron Incarnon gets **0** of that extra hit. Scyotid does.
+Silken Stride extra Toxin scales with this Strength. Latron Incarnon still gets **0** of that hit. Scyotid does.
 
 ## Mods
 
@@ -27,21 +28,15 @@ Silken Stride at 244%: **3.44× HP**, **97%** extra Toxin on guns (**195%** wall
 | 5 | Primed Flow |
 | 6 | Adaptation |
 | 7 | Intensify *(not Precision, not Umbral)* |
-| 8 | **Transient Fortitude** *(trying)* |
+| 8 | **Transient Fortitude** |
 | Arcane 1 | Molt Augmented |
 | Arcane 2 | Arcane Energize |
 
-## 8th slot notes
+## Locked 8th
 
-TF is **+55% Strength, −27.5% Duration**. Webbed Embrace gets shorter. That is the test.
+TF stays. **+55% Strength** vs **−5s** on 2 is the correct trade.
 
-If 2 falls off too fast:
-
-- **Energy Conversion** — Strength, no Duration tax. Kiss energy orbs proc it. Recast 4 to snapshot the gun Toxin.
-- **Constitution** — +40% Duration, stacks with Archon Continuity. Webs last longer.
-- **Streamline** — Kiss 38.75 → 31.25. Comfort only.
-
-**Not** Energy Nexus. **Not** Armored Agility (125 armor × 1.4 = nothing). **Not** Augur Secrets. **Not** Precision Intensify (only +24% extra gun Toxin; taxes Kiss).
+**Not** Energy Nexus. **Not** Primed Continuity (conflicts with Archon). **Not** Precision Intensify. **Not** Armored Agility.
 
 ## Play
 
