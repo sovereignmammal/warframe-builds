@@ -15,7 +15,7 @@
 
 ## Other frames (built, not on the 8-loadout bar)
 
-Dante, Trinity, Ember, Frost, Qorvex, Koumei, Umbra — see their files.
+Dante, Trinity, Ember, Frost, Qorvex, Koumei, Umbra, Jade — see their files.
 
 ## Incarnons on
 

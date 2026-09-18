@@ -34,6 +34,7 @@ Finalized loadouts. Open a file, build it in-game.
 | [qorvex.md](qorvex.md) | Crucible Blast. Keep 4. |
 | [koumei.md](koumei.md) | Circuit Config A. Range first. |
 | [umbra.md](umbra.md) | Howl + Dex Nikana. |
+| [jade.md](jade.md) | Glory flyer. Two auras. Eyes strip. |
 
 ## Weapons
 
