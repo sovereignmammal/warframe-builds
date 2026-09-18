@@ -14,22 +14,6 @@ Howl wants **duration + range**. 145% range is acceptable. 1–2 duration shards
 
 ## Dex Nikana
 
-24% crit / 46% status. Needs Blood Rush / Weeping Wounds. Viral + Heat is the right split — do not double Toxin.
+**Config A** on this frame. Viral + Heat, Melee Exposure. See [dex-nikana.md](dex-nikana.md).
 
-Drop: Fever Strike, Corrupt Charge, Quickening.
-
-| Slot | Mod |
-| --- | --- |
-| Stance | Tranquil Cleave |
-| 1 | Primed Pressure Point *(Condition Overload later)* |
-| 2 | Blood Rush |
-| 3 | Weeping Wounds |
-| 4 | Organ Shatter |
-| 5 | Primed Reach |
-| 6 | North Wind / Vicious Frost |
-| 7 | Volcanic Edge |
-| 8 | Berserker Fury |
-| Exilus | Mentor’s Legacy; Dreamer's Wrath is the upgrade |
-| Arcane | Melee Exposure |
-
-Corrupt Charge + Drifting Contact cancel each other.
+Voruna wears **Config B**. Do not overwrite A.

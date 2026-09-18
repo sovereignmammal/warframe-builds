@@ -1,6 +1,6 @@
 # Saryn — Lash / Spore
 
-Keep **3** (Toxic Lash). Do not Helminth Molt unless you already live without it. Companion: **Hound** (same primer as Garuda). Toxic Lash is melee.
+Keep **3** (Toxic Lash). Do not Helminth Molt unless you already live without it. Companion: **Aga Umbonek** (Voruna’s hound). **Juno Ty** is Garuda. Toxic Lash is melee.
 
 ## Config A — Sobek chain (no gate)
 

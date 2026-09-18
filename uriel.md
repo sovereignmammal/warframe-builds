@@ -1,6 +1,6 @@
 # Uriel — Caster (Config A)
 
-Heat caster. **Archon Vitality** doubles Infernalis / Demonium / Brimstone / demon Heat procs. Companion: **Huras (Dubious Creature only)**. Stalk — abilities do not break it; guns do.
+Heat caster. **Archon Vitality** doubles Infernalis / Demonium / Brimstone / demon Heat procs. Companion: **Huras (Demonic Vermin)**. Stalk — abilities do not break it; guns do. **Tandem Bond** feeds Ruvox combo.
 
 ## Frame
 
@@ -33,4 +33,4 @@ Growing Power / Summoner’s Wrath only if you never gun.
 
 ## Pair
 
-**Torid Incarnon** Viral + Hunter Munitions. **Do not** put Heat on Torid — Uriel already paints it. Dual Toxocyst or Kuva Brakk on the hip. **Ruvox** is the real melee. War is optional slam toy.
+**Torid Incarnon** Viral + Hunter Munitions. **Do not** put Heat on Torid — Uriel already paints it. Dual Toxocyst or Kuva Brakk on the hip. **Ruvox** — see [ruvox.md](ruvox.md). War is optional slam toy.

@@ -1,6 +1,6 @@
 # Synoid Gammacor Incarnon
 
-Primer / grouper. **Not Mesa** (Brakk). **Not Oraxia** (Scyotid). Pair with Torid / Burston / melee.
+Primer / grouper. **Not Mesa** (Brakk). **Not Oraxia** (Scyotid). **Not Nidus** (Synapse Magnetic + Tysis Encumber). Pair with Torid / Burston / melee.
 
 Enable **Fire Manual Trigger Weapons Continuously**. Beam = Overguard (Magnetic). Incarnon = 15m pull + Cold bombs.
 

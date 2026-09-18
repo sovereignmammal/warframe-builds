@@ -1,6 +1,6 @@
 # War — Uriel toy
 
-Stalker’s heavy blade. **3.2m**, forced Impact. **Ruvox** is the real melee. Fashion / slams when Infernalis has you in the air.
+Stalker’s heavy blade. **3.2m**, forced Impact. **Ruvox** is the real melee — [ruvox.md](ruvox.md). Fashion / slams when Infernalis has you in the air.
 
 **Do not put Heat on it.** Uriel already paints Heat. Heat + Electric → Radiation and **Influence dies**.
 

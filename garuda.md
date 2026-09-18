@@ -1,6 +1,6 @@
 # Garuda — Melee SP
 
-Slash caster / talons. Bloodletting is infinite energy. Companion: **Hound** (primer). Pack Leader works because you melee. **Not** Vasca — Draining Bite heals the cat; Transfusion is a bleedout button you should never press.
+Slash caster / talons. Bloodletting is infinite energy. Companion: **Juno Ty** (Hinta primer). Pack Leader works because you melee. Aga stays Voruna / Saryn. **Not** Vasca — Draining Bite heals the cat; Transfusion is a bleedout button you should never press.
 
 ## Config A — Blending Talons (~3 Forma)
 
@@ -27,4 +27,4 @@ Aura **Brief Respite**. Exilus **Natural Talent** until Amber cast-speed shards.
 
 **Shards:** 2–3 Amber Casting Speed.
 
-Use **Garuda Prime Talons**. Seeking Talons Slash scales off fat **base damage**, not elemental mods. Hound paints the room for Talons / CO.
+Use **Garuda Prime Talons**. Seeking Talons Slash scales off fat **base damage**, not elemental mods. **Juno Ty** paints the room for Talons / CO. Heat leftover on the claws is the extra Grimoire does not have.

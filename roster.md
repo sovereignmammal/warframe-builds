@@ -7,19 +7,19 @@
 | **Oraxia** | **Fulmin Prime** | Scyotid | Spinnerex (parked in 4) | Oxylus + Seismic Bond |
 | **Mesa** | Latron Incarnon | **Kuva Brakk** | — | Sahasa |
 | **Caliban** | Burston Config C or Torid | Gammacor | Broken Scepter (orbs) | Sahasa |
-| **Khora** | whatever (Dexterity) | optional primer | **Whipclaw** | Venari Heal |
-| **Voruna** | Burston / Torid | Gammacor | Dual Ether / Ulfrun | Hound |
-| **Garuda** | fat base-damage | Grimoire primer | **Talons** | Hound |
-| **Saryn** | Kuva Sobek (A) / Torid (B) | — | Lash is melee | Hound |
-| **Uriel** | Torid Incarnon | Dual Tox / Brakk | Ruvox (War toy) | Huras |
+| **Khora** | whatever (Dexterity) | optional primer | Whipclaw / Dual Ether | Venari Heal (A) / Attack (B) |
+| **Voruna** | Burston / Torid | Gammacor | Dex Nikana B / Ulfrun | Aga Umbonek |
+| **Garuda** | fat base-damage | Grimoire primer | **Talons** | Juno Ty |
+| **Saryn** | Kuva Sobek (A) / Torid (B) | — | Lash is melee | Aga Umbonek |
+| **Uriel** | Torid Incarnon | Dual Tox / Brakk | Ruvox (War toy) | Demonic Vermin |
 
 ## Other frames (built, not on the 8-loadout bar)
 
-Dante, Trinity, Ember, Frost, Qorvex, Koumei, Umbra, Jade — see their files.
+Dante, Trinity, Ember, Frost, Qorvex, Koumei, Umbra, Jade — see their files. **Nidus** — Coda Synapse / Tysis / Pathocyst + Helminth Charger ([nidus.md](nidus.md)). Gammacor parked.
 
 ## Incarnons on
 
-Torid, Dual Toxocyst, Burston Prime, Ruvox, Latron Prime, Synoid Gammacor. **Braton Vandal this week.**
+Torid, Dual Toxocyst, Burston Prime, Ruvox, Latron Prime, Synoid Gammacor, Soma Prime, Strun Prime. **Braton Vandal this week.**
 
 ## Next Incarnon
 
@@ -30,10 +30,15 @@ Torid, Dual Toxocyst, Burston Prime, Ruvox, Latron Prime, Synoid Gammacor. **Bra
 - **Aklex Prime** — no Lex Incarnon adapter. Build **Lex Prime**.
 - **Akvasto Prime** — fashion.
 - **Boltor Prime Incarnon** — worse Burston (file exists anyway).
+- **Phage** — not a Torid. Variety beam shotgun. Innate Viral so Corrosive + Heat can sit leftover.
 - Dual Tox / Gammacor on Mesa or Oraxia.
+- **Coda Tysis** on Mesa — Brakk owns that hip. Heat valence stays Heat; do not Vice to Electric.
 - Hound on Mesa (overshields).
 - Vasca on Garuda.
 - Influence on farm Khora Whipclaw.
+- **Xoris** as a general stick — Sister / Granum only. Sun & Moon stays all-frame. Not on Khora.
+- **Tenet Envoy** — not a Torid. Toxin valence or Vice to Toxin. Guided rocket.
+- Viral guns into Deep Archimedea / Anatomica — Murmur is **−50% Viral**. Strun A + Sagek A. Not Phage A, not Torid A, not Burston A.
 
 ## Combining reminder
 

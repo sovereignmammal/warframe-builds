@@ -1,4 +1,4 @@
-# Dual Ether — Influence (Voruna / general)
+# Dual Ether — Influence (Khora B / general)
 
 70% Slash, 20% / 2x, 28% status, **2.5m**. **Melee Influence** is the room clear.
 
@@ -21,8 +21,8 @@ Electricity must stay **uncombined**. Viral is Cold + Toxin on top of Electric. 
 
 Dreamer’s Wrath is optional. Keep Discipline’s Merit.
 
-12x combo, swing. On Voruna: 2 the clump first so CO has statuses.
+12x combo, swing. On Khora B: Ensnare, then leftovers. Voruna wears **Sun & Moon** — 2 already primed, Dual Ether’s Viral is a wasted primer.
 
 No Influence: Shocking Touch → Organ Shatter, arcane Exposure or Afflictions.
 
-**Rejected vs Dual Ether:** Fang Prime, Ether Daggers, Dragon Nikana, Mire, Dual Heat Swords.
+**Rejected vs Dual Ether:** Fang Prime, Ether Daggers, Dragon Nikana, Mire, Dual Heat Swords, Plasma Sword.
