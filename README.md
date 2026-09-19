@@ -51,6 +51,7 @@ Finalized loadouts. Open a file, build it in-game.
 | [torid-incarnon.md](torid-incarnon.md) | Viral + HM beam. Uriel / rooms. |
 | [boltor-prime-incarnon.md](boltor-prime-incarnon.md) | Worse Burston. Variety. |
 | [phage.md](phage.md) | Innate Viral beam shotgun. Corrosive + Heat leftover. Not Torid. |
+| [coda-bubonico.md](coda-bubonico.md) | Radiation valence. Corrosive pellets, Viral alt. Not Torid. |
 | [soma-prime-incarnon.md](soma-prime-incarnon.md) | Slash shotgun Incarnon. Not Burston. Not Mesa. |
 | [strun-prime-incarnon.md](strun-prime-incarnon.md) | DA shotgun. Radiation + leftover Blast. No Viral. |
 | [sagek-prime.md](sagek-prime.md) | DA hip. Radiation Irradiate. Not Dual Tox. Not Mesa. |

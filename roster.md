@@ -31,6 +31,7 @@ Torid, Dual Toxocyst, Burston Prime, Ruvox, Latron Prime, Synoid Gammacor, Soma 
 - **Akvasto Prime** — fashion.
 - **Boltor Prime Incarnon** — worse Burston (file exists anyway).
 - **Phage** — not a Torid. Variety beam shotgun. Innate Viral so Corrosive + Heat can sit leftover.
+- **Coda Bubonico** — not a Torid. Radiation valence. Corrosive pellets / Viral mites. Not into Anatomica.
 - Dual Tox / Gammacor on Mesa or Oraxia.
 - **Coda Tysis** on Mesa — Brakk owns that hip. Heat valence stays Heat; do not Vice to Electric.
 - Hound on Mesa (overshields).
@@ -39,7 +40,7 @@ Torid, Dual Toxocyst, Burston Prime, Ruvox, Latron Prime, Synoid Gammacor, Soma 
 - **Xoris** as a general stick — Sister / Granum only. Sun & Moon stays all-frame. Not on Khora.
 - **Virulenta** as the all-frame stick — innate Viral. Sun & Moon stays. Not on Garuda / Voruna / Khora / Nidus / Uriel / Xaku.
 - **Tenet Envoy** — not a Torid. Toxin valence or Vice to Toxin. Guided rocket.
-- Viral guns into Deep Archimedea / Anatomica — Murmur is **−50% Viral**. Strun A + Sagek A. Not Phage A, not Torid A, not Burston A.
+- Viral guns into Deep Archimedea / Anatomica — Murmur is **−50% Viral**. Strun A + Sagek A. Not Phage A, not Torid A, not Burston A, not Bubonico.
 
 ## Combining reminder
 
