@@ -49,7 +49,7 @@ Overguard enemies do **not** give Grasp guns. Gaze someone next to them.
 
 ## Weapons
 
-Grasp is the gun. Park a Dexterity primary you do not need. **Do not** steal Torid (Uriel), Brakk (Mesa), Dual Tox (Uriel), or Synapse (Nidus). **Sun & Moon** when 4 is down. Plague Keewar is Viral glued on — skip it here.
+Grasp is the gun. Park a Dexterity primary you do not need. **Do not** steal Torid (Uriel), Brakk (Mesa), Dual Tox (Uriel), or Synapse (Nidus). **Sun & Moon** when 4 is down. **Virulenta** is Viral glued on — skip it here.
 
 ## Shards
 

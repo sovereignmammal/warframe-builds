@@ -37,7 +37,7 @@ Torid, Dual Toxocyst, Burston Prime, Ruvox, Latron Prime, Synoid Gammacor, Soma 
 - Vasca on Garuda.
 - Influence on farm Khora Whipclaw.
 - **Xoris** as a general stick — Sister / Granum only. Sun & Moon stays all-frame. Not on Khora.
-- **Plague Keewar** as the all-frame stick — innate Viral. Sun & Moon stays. Not on Garuda / Voruna / Khora / Nidus / Uriel.
+- **Virulenta** as the all-frame stick — innate Viral. Sun & Moon stays. Not on Garuda / Voruna / Khora / Nidus / Uriel / Xaku.
 - **Tenet Envoy** — not a Torid. Toxin valence or Vice to Toxin. Guided rocket.
 - Viral guns into Deep Archimedea / Anatomica — Murmur is **−50% Viral**. Strun A + Sagek A. Not Phage A, not Torid A, not Burston A.
 

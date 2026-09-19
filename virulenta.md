@@ -1,10 +1,10 @@
-# Plague Keewar — Viral Influence staff
+# Virulenta — Viral Influence staff
 
-Unranked Zaw. Innate **Viral**. **10% / 2x / 36%.** **3m.** **1.05** speed. Slash / Impact leftover. **Electricity must stay uncombined.**
+Plague Keewar Zaw. Innate **Viral**. **10% / 2x / 36%.** **3m.** **1.05** speed. Slash / Impact leftover. **Electricity must stay uncombined.**
 
-Rank **30**, then gild at Hok (Madurai). Arcanes after gild. Tell me the name.
+Gild **Madurai** if it is not already. Arcanes after gild.
 
-**Do not** replace Sun & Moon. Viral is glued on. **Do not** Garuda / Voruna / Khora / Nidus / Uriel.
+**Do not** replace Sun & Moon. Viral is glued on. **Do not** Garuda / Voruna / Khora / Nidus / Uriel / Xaku.
 
 ## Config A — Influence
 
@@ -24,6 +24,6 @@ Rank **30**, then gild at Hok (Madurai). Arcanes after gild. Tell me the name.
 
 **Do not** Fever / North Wind — Viral is innate. **Do not** Heat — Radiation eats Influence. **Do not** PPP and CO together.
 
-**Play:** Rank it first. Lights to x12 → Tennokai heavy → keep lighting. Influence paints off Electric.
+**Play:** Lights to x12 → Tennokai heavy → keep lighting. Influence paints off Electric.
 
 Flailing Branch if you already live on it. Berserker Fury in the Steel hole if 1.05 feels slow.

@@ -66,7 +66,7 @@ Finalized loadouts. Open a file, build it in-game.
 | [grimoire.md](grimoire.md) | Garuda primer book. |
 | [dual-ether.md](dual-ether.md) | Influence. Khora B. |
 | [sun-and-moon.md](sun-and-moon.md) | All-frame Influence. Nidus uses Pathocyst instead. |
-| [plague-keewar.md](plague-keewar.md) | Viral Influence staff. Innate Viral. Not Sun & Moon. |
+| [virulenta.md](virulenta.md) | Viral Influence staff. Innate Viral. Not Sun & Moon. |
 | [caustacyst.md](caustacyst.md) | Nidus backup scythe. Innate Corrosive. Strain Infection. |
 | [coda-synapse.md](coda-synapse.md) | Nidus beam. Magnetic valence. Teeming Virulence. Not Torid. |
 | [coda-pathocyst.md](coda-pathocyst.md) | Nidus Influence glaive. Innate Viral. Strain Infection. |
