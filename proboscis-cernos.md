@@ -23,7 +23,7 @@ High Voltage + Infected Clip combine first → **Corrosive**. Innate Viral stays
 | Exilus | Vigilante Supplies |
 | Arcane | Primary Merciless |
 
-**Do not** Compression — that shrinks the 7m. Firestorm grows it. **Do not** Split Flights — one impact, one pull. **Do not** Thunderbolt. **Do not** Point Strike / Crit Delay / HM — 7% crit is a trap. **Do not** Cold. **Do not** another Toxin 90 — dumps into Viral.
+**Do not** Compression — that shrinks the 7m. Firestorm grows it. **Do not** Split Flights — one impact, one pull. **Do not** Thunderbolt — **30%** of shots dissolve the arrow. Tendrils and the **1.7s** Viral bomb never happen. You get **250** Blast and a knockdown instead. **Do not** Point Strike / Crit Delay / HM — 7% crit is a trap. **Do not** Cold. **Do not** another Toxin 90 — dumps into Viral.
 
 **Primed Firestorm does not grow the 9m pull.** Shoot the floor in the pack. Tendrils do not need LoS. Walls still block the drag.
 
