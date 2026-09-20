@@ -206,7 +206,7 @@ Quills paint Viral. Devolution larva still shoots, bonds stay up. Calculated Red
 
 **Synth Deconstruct** can go on a Panzer (it is Companion, not Sentinel). **Synth Fiber** cannot. If Deconstruct will not slot, it is already on **Oxylus** — leave it there. One copy.
 
-**Do not** Guardian / Shield Charger (Mesa rule if you ever borrow it). **Do not** Contagious Bond — you will steal kills. Pack Leader if you melee and Redirection does not fit.
+**Do not** Guardian / Shield Charger (Mesa rule if you ever borrow it). **Do not** Contagious Bond — you will steal kills. Pack Leader if you melee and Redirection does not fit. **Koumei Loading** needs Elusive — the fox does not take the passive-weapon kills.
 
 ### Claws
 

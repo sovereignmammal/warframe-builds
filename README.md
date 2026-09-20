@@ -32,7 +32,7 @@ Finalized loadouts. Open a file, build it in-game.
 | [ember.md](ember.md) | Healing Flame + Exothermic. |
 | [frost.md](frost.md) | Avalanche strip. |
 | [qorvex.md](qorvex.md) | Crucible Blast. Keep 4. |
-| [koumei.md](koumei.md) | Circuit Config A. Range first. |
+| [koumei.md](koumei.md) | Circuit A. SP B with Kumihimo Loading. |
 | [umbra.md](umbra.md) | Howl + Dex Nikana A. |
 | [nidus.md](nidus.md) | Strain Link. Synapse + Pathocyst. Helminth Charger. |
 | [jade.md](jade.md) | Glory flyer. Two auras. Eyes strip. |
