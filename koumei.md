@@ -28,9 +28,13 @@ Triple sixes: Omikuji skips the challenge. Omamori full invuln until those charm
 
 ## Config B — SP (Kumihimo Loading)
 
-Loaded dice always roll **6**. **6** kills on the **passive-highlighted gun** = 1 die stored. Streamline drops that to **4**. Cap **5**. They sit above the abilities until you **hold 1**, which spends every stored die on that cast.
+The **five dice above the bar are Five Fates.** They only **spin when you cast**. Kills do not move them. That roll after you press 1 is not the bank.
 
-You need **three 6s** for Shadow’s Trinity (silver threads, all **10** statuses). Three stored dice *are* three 6s. Wait until you see **3**, then hold 1. Two is not Trinity. Five is extra damage, not required. Do not tap 1 while they are stored — tap is a normal roll and wastes the bank.
+Loading is a **silent charge** on **1**. **4** highlighted-weapon kills = 1 loaded die. Look at **1** for pips / a counter, not the Five Fates row. If you see nothing, the charge is still there. **Hold 1** spends it — the Fates then come up **6**.
+
+You need **three 6s** for Shadow’s Trinity (silver threads, all **10** statuses). **12** kills (three charges) then **hold 1**. Two charges is not Trinity. Five is extra damage, not required.
+
+**Tap 1** is a normal random roll. It does **not** spend the charge. Weave threads while you farm. **Hold** is the dump.
 
 | Slot | Mod |
 | --- | --- |
@@ -51,7 +55,7 @@ You need **three 6s** for Shadow’s Trinity (silver threads, all **10** statuse
 
 **Not** Overextended on B. **Not** Catalyzing. Invert tap/hold on 1 in settings if hold-cast feels wrong.
 
-**Play:** **3** (Omamori) **first**, recast at 5 charms — that is not the dice. Look at the weapon icon next to the dice. Kill with **that** one. **4 kills → 1 die.** Do that **three times** (12 kills) until **3 dice** are stored → **hold 1**. **4** the clump. **2** on cooldown for Decrees. Do not wait for 5.
+**Play:** **3** (Omamori) **first**, recast at 5 charms — that is not the dice. Look at the weapon icon next to the Five Fates. Kill with **that** one. **4 kills → 1 charge.** Do that **three times** (12 kills) → **hold 1**. Watch the Fates land on **6**. **4** the clump. **2** on cooldown for Decrees. Do not wait for 5.
 
 Passive can highlight an empty slot. Swap to whatever it picked.
 
