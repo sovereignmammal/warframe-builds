@@ -28,9 +28,9 @@ Triple sixes: Omikuji skips the challenge. Omamori full invuln until those charm
 
 ## Config B — SP (Kumihimo Loading)
 
-Loaded dice always roll **6**. **6** kills on the **passive-highlighted gun** = 1 die (**2** at 175% efficiency — do not Fleeting for that). Cap **5**. **Hold 1** spends them all.
+Loaded dice always roll **6**. **6** kills on the **passive-highlighted gun** = 1 die stored (**2** kills at 175% efficiency — do not Fleeting for that). Cap **5**. They sit above the abilities until you **hold 1**, which spends every stored die on that cast.
 
-**3** loaded dice is Shadow’s Trinity — silver threads, all **10** elemental statuses. Bank **3**, hold 1. Do not sit on 5.
+You need **three 6s** for Shadow’s Trinity (silver threads, all **10** statuses). Three stored dice *are* three 6s. Wait until you see **3**, then hold 1. Two is not Trinity. Five is extra damage, not required. Do not tap 1 while they are stored — tap is a normal roll and wastes the bank.
 
 | Slot | Mod |
 | --- | --- |
@@ -51,7 +51,7 @@ Loaded dice always roll **6**. **6** kills on the **passive-highlighted gun** = 
 
 **Not** Overextended on B. **Not** Catalyzing. Invert tap/hold on 1 in settings if hold-cast feels wrong.
 
-**Play:** Look at the weapon icon next to the dice. Kill with **that** one. **3** up. Bank **3** dice → **hold 1**. **4** the clump. **2** on cooldown for Decrees.
+**Play:** Look at the weapon icon next to the dice. Kill with **that** one. **3** (Omamori) up. When **3 loaded dice** are stored → **hold 1**. **4** the clump. **2** on cooldown for Decrees.
 
 Passive can highlight an empty slot. Swap to whatever it picked.
 
