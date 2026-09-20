@@ -61,7 +61,13 @@ Passive can highlight an empty slot. Swap to whatever it picked.
 
 ## Weapons
 
-Whatever the passive lights up. **Sun & Moon** when it picks melee. Do not steal Torid / Brakk / Dual Tox / Synapse.
+**No signature bonus** on Higasa or Amanata. Do not use them because they are hers.
+
+Passive lights a slot — that gun has to *kill*. Park a real primary (Proboscis, Burston when free). **Sun & Moon** when it picks melee. **Do not** steal Torid / Brakk / Dual Tox / Synapse.
+
+Higasa is an umbrella with a Blast beam. Fine if you already own it. Do not farm Fate Pearls for a bonus that is not in the game.
+
+Amanata is a 3m polearm that rerolls a blessing every **30** hits. Optional toy. Does not replace Sun & Moon.
 
 ## Shards
 
