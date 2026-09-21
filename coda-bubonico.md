@@ -23,10 +23,16 @@ Not a Torid. Not a Strun. Not Synapse. **Not Mesa.** **Not Oraxia.** **Not Nidus
 | Exilus | Fatal Acceleration |
 | Arcane | Primary Merciless |
 
-**Do not** Blaze / Inferno — Heat + Electric = Radiation, Corrosive dies, Toxin leftover. **Do not** Chilling Grasp / Frigid Blast — Magnetic. **Do not** Contagious — you already have Toxin. **Do not** Galvanized Chamber / Critical Delay — those are rifle. **Do not** Compression — primary is pellets, alt is 7m.
+**Do not** Blaze / Inferno — Heat + Electric = Radiation, Corrosive dies, Toxin leftover. **Do not** Chilling Grasp / Frigid Blast — Magnetic. **Do not** Contagious — you already have Toxin. **Do not** Galvanized Chamber / Critical Delay / Hunter Munitions — those are rifle. **Do not** Compression — primary is pellets, alt is 7m.
+
+Live 8 is this skeleton. Unprimed Charged Shell / Ravage / Point Blank until the Primed cards. **Amalgam Shotgun Barrage** in the Armaments hole is fine — spool is why the fire rate is **8.78**.
 
 UI primary: **Corrosive + Radiation**. UI alt: **Viral + Electricity + Radiation**.
 
+## Riven
+
+**Bubonico Toxi-ignicak** — **park it.** Toxin + Heat on one card. Heat + Charged Shell = Radiation, Corrosive dies. **−46% Slash** is the pellet’s main IPS. Disposition is junk; **50%** elements are not worth the split.
+
 **Play:** Hold primary, wait for the spool. Alt a clump. Primary the heavy. Merciless is the battery card.
 
-Overlevel. Disposition is junk — skip the riven hunt.
+Overlevel. Fuse Radiation toward **60%**.
