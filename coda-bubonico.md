@@ -4,6 +4,8 @@ Arm cannon. Rank **40**. Battery **36**. Primary ramps. **7** pellets, **27% / 2
 
 **Valence: Radiation 35.2%** — fuse to **60%**. **Do not Vice.** Radiation leftover is the extra Savvy type. Electric valence dumps into Corrosive with the Toxin and you lose it.
 
+Regular Bubonico is the same Charged Shell 8 with no valence — [bubonico.md](bubonico.md). Park that when this is on.
+
 Not a Torid. Not a Strun. Not Synapse. **Not Mesa.** **Not Oraxia.** **Not Nidus.** Do not take it into Anatomica — alt-fire Viral is glued on. Murmur is **−50% Viral**.
 
 ## Config A — hybrid (Corrosive primary / Viral alt)

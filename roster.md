@@ -32,6 +32,7 @@ Torid, Dual Toxocyst, Burston Prime, Ruvox, Latron Prime, Synoid Gammacor, Soma 
 - **Boltor Prime Incarnon** — worse Burston (file exists anyway).
 - **Phage** — not a Torid. Variety beam shotgun. Innate Viral so Corrosive + Heat can sit leftover.
 - **Coda Bubonico** — not a Torid. Radiation valence. Corrosive pellets / Viral mites. Not into Anatomica.
+- **Bubonico** — the un-Coda. Same Charged Shell 8. Park it.
 - **Proboscis Cernos** — not a Torid. Gun Larva. 9m pull / Viral boom. Not on Khora or Nidus.
 - Dual Tox / Gammacor on Mesa or Oraxia.
 - **Coda Tysis** on Mesa — Brakk owns that hip. Heat valence stays Heat; do not Vice to Electric.
