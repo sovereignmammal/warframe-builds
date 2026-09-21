@@ -31,7 +31,11 @@ UI primary: **Corrosive + Radiation**. UI alt: **Viral + Electricity + Radiation
 
 ## Riven
 
-**Bubonico Toxi-ignicak** — **park it.** Toxin + Heat on one card. Heat + Charged Shell = Radiation, Corrosive dies. **−46% Slash** is the pellet’s main IPS. Disposition is junk; **50%** elements are not worth the split.
+**Bubonico Toxi-ignicak** — **park it.** Toxin + Heat on one card. Heat + Toxin = **Gas**, Charged Shell Electric leftover, **Corrosive dies.** **−46% Slash** is the pellet’s main IPS.
+
+The compare screen **81% → 27%** is the hover sitting in **Critical Deceleration**. Do not eat that slot. Total **2941 → 4478** is Gas + Electric stacked, not a better heavy. Radial **698 → 1071** is the same trap plus **15% → 5%** crit.
+
+Disposition is junk.
 
 **Play:** Hold primary, wait for the spool. Alt a clump. Primary the heavy. Merciless is the battery card.
 
