@@ -4,7 +4,7 @@ Arm cannon. Rank **30**. Battery **27**. **7** pellets, **25% / 2.3x / 9%**, **1
 
 Same split as Coda, **no Radiation valence**. Charged Shell only — Electric + innate Toxin = **Corrosive** on the pellets. Alt stays **Viral** + leftover Electric.
 
-**Coda is the upgrade** ([coda-bubonico.md](coda-bubonico.md)). Rank 40, mag 36, ramps, Radiation leftover. This 8 is why you already know the gun. Park it when Coda is on.
+**Coda is the better gun** ([coda-bubonico.md](coda-bubonico.md)). This one keeps **Bubonico Toxi-ignicak** — better disposition. Do not park it while the riven is on.
 
 Not a Torid. **Not Mesa.** **Not Oraxia.** **Not Nidus.** Do not take it into Anatomica — alt-fire Viral is glued on.
 
@@ -29,9 +29,9 @@ Not a Torid. **Not Mesa.** **Not Oraxia.** **Not Nidus.** Do not take it into An
 
 UI primary: **Corrosive**. UI alt: **Viral + Electricity**.
 
-## Config B — riven Gas
+## Config B — riven Gas *(this is the 8)*
 
-Same riven as Coda. **Better disposition here** if it will slot. Heat + Toxin = **Gas**. Eat Charged Shell. Keep Crit Decel.
+**Bubonico Toxi-ignicak** lives here. Heat + Toxin = **Gas**. Eat **Charged Shell**. Keep Crit Decel.
 
 | Slot | Mod |
 | --- | --- |
@@ -46,8 +46,8 @@ Same riven as Coda. **Better disposition here** if it will slot. Heat + Toxin = 
 | Exilus | Fatal Acceleration |
 | Arcane | Primary Merciless |
 
-**Do not** Charged Shell. **Do not** Blaze / Contagious. UI primary: **Gas + Toxin**. UI alt: **Viral + Gas**.
+**Do not** Charged Shell. **Do not** Blaze / Contagious. **−46% Slash** is the tax. Do not eat Crit Decel — that compare **81% → 27%** was the hover.
 
-Coda B is the same 8 plus Radiation leftover. Use B on whichever gun actually takes the card.
+UI primary: **Gas + Toxin**. UI alt: **Viral + Gas**.
 
-**Play:** Alt a clump. Primary the heavy. Merciless is the battery card.
+**Play:** Alt a clump. Primary the heavy. Merciless is the battery card. Config A is Corrosive when the riven is off.
