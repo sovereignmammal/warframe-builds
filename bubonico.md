@@ -29,8 +29,25 @@ Not a Torid. **Not Mesa.** **Not Oraxia.** **Not Nidus.** Do not take it into An
 
 UI primary: **Corrosive**. UI alt: **Viral + Electricity**.
 
+## Config B — riven Gas
+
+Same riven as Coda. **Better disposition here** if it will slot. Heat + Toxin = **Gas**. Eat Charged Shell. Keep Crit Decel.
+
+| Slot | Mod |
+| --- | --- |
+| 1 | Galvanized Hell |
+| 2 | Galvanized Savvy |
+| 3 | Critical Deceleration |
+| 4 | Primed Ravage *(Ravage)* |
+| 5 | Shotgun Elementalist |
+| 6 | **Bubonico Toxi-ignicak** |
+| 7 | Primed Point Blank *(Point Blank)* |
+| 8 | **Amalgam Shotgun Barrage** |
+| Exilus | Fatal Acceleration |
+| Arcane | Primary Merciless |
+
+**Do not** Charged Shell. **Do not** Blaze / Contagious. UI primary: **Gas + Toxin**. UI alt: **Viral + Gas**.
+
+Coda B is the same 8 plus Radiation leftover. Use B on whichever gun actually takes the card.
+
 **Play:** Alt a clump. Primary the heavy. Merciless is the battery card.
-
-## Riven
-
-**Bubonico Toxi-ignicak** lives on Coda’s file. Same park here. Heat + Toxin = **Gas**. Charged Shell leftover Electric. **Corrosive dies.** Better disposition does not fix the split. Do not eat Crit Decel for it.
