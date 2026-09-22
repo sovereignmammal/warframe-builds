@@ -2,7 +2,7 @@
 
 20% crit / 2.4x / 22% status / mostly Slash. **Electricity must stay uncombined.**
 
-Does not replace Garuda Talons. Caliban keeps Broken Scepter as the orb stick. Voruna wears **Dex Nikana B**. Dual Ether stays on Khora B. **Nidus** puts **Strain Infection** on **Pathocyst** (Caustacyst if that scythe is on). This file is the all-frame stick.
+Does not replace Garuda Talons. Caliban keeps Broken Scepter as the orb stick. Voruna wears **Dex Nikana B**. Dual Ether stays on Khora B. **Nidus** puts **Strain Infection** on **Pathocyst** (Caustacyst if that scythe is on). Koumei wears **Amanata**. This file is the all-frame stick.
 
 ## Config A
 
