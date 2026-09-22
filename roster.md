@@ -11,7 +11,7 @@
 | **Voruna** | Burston / Torid | Gammacor | Dex Nikana B / Ulfrun | Aga Umbonek |
 | **Garuda** | fat base-damage | Grimoire primer | **Talons** | Juno Ty |
 | **Saryn** | Kuva Sobek (A) / Torid (B) | — | Lash is melee | Aga Umbonek |
-| **Uriel** | Torid Incarnon | Dual Tox / Brakk | Ruvox (War toy) | Demonic Vermin |
+| **Uriel** | Torid Incarnon | Dual Tox / Brakk | Ruvox / War Prime | Demonic Vermin |
 
 ## Other frames (built, not on the 8-loadout bar)
 

@@ -76,7 +76,8 @@ Finalized loadouts. Open a file, build it in-game.
 | [coda-pathocyst.md](coda-pathocyst.md) | Nidus Influence glaive. Innate Viral. Strain Infection. |
 | [dex-nikana.md](dex-nikana.md) | Combo/crit. Umbra A / Voruna B. |
 | [ruvox.md](ruvox.md) | Uriel Incarnon fists. Influence slam. |
-| [war.md](war.md) | Uriel slam toy. |
+| [war-prime.md](war-prime.md) | Uriel slam blade. Influence. No Heat. |
+| [war.md](war.md) | Un-Prime. Use War Prime. |
 | [xoris.md](xoris.md) | Sister hunt. Heavy Influence throw. Granum hand. |
 | [roster.md](roster.md) | Who wears what. Skip list. |
 | [companions.md](companions.md) | Pets, assignments, locked 8s. |

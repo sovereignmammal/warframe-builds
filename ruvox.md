@@ -1,6 +1,6 @@
 # Ruvox — Uriel Incarnon fists
 
-Pure Impact. Incarnon heavy-slam **spikes**. **Uriel only** as the real melee. War is the fashion slam.
+Pure Impact. Incarnon heavy-slam **spikes**. **Uriel** Incarnon fists. **War Prime** is the **3.2m** slam blade — [war-prime.md](war-prime.md).
 
 **1.25m** base → Incarnon **+3m**. **-35%** attack speed in form. Combo **6x** + heavy → transform (**3x** with Swift Transmute).
 
