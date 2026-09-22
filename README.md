@@ -66,7 +66,7 @@ Finalized loadouts. Open a file, build it in-game.
 | [sicarus-prime-incarnon.md](sicarus-prime-incarnon.md) | General burst pistol. |
 | [dual-toxocyst-incarnon.md](dual-toxocyst-incarnon.md) | Kill pistol. Not Mesa. |
 | [tenet-glaxion.md](tenet-glaxion.md) | Cold beam. No Heat. |
-| [tenet-envoy.md](tenet-envoy.md) | Guided rocket. Toxin valence. Viral + Heat + HM. Not Torid. |
+| [tenet-envoy.md](tenet-envoy.md) | Guided rocket. Toxin 33%. Viral + Heat + HM. Not Torid. |
 | [grimoire.md](grimoire.md) | Garuda primer book. |
 | [dual-ether.md](dual-ether.md) | Influence. Khora B. |
 | [sun-and-moon.md](sun-and-moon.md) | All-frame Influence. Nidus uses Pathocyst instead. |
