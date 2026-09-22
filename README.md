@@ -60,7 +60,7 @@ Finalized loadouts. Open a file, build it in-game.
 | [coda-tysis.md](coda-tysis.md) | Nidus hip. Heat leftover. Encumber. Not Dual Tox. |
 | [kuva-brakk.md](kuva-brakk.md) | Mesa hip. Magnetic. Cascadia Flare. |
 | [gammacor.md](gammacor.md) | Primer. Torid / Burston. Not Mesa, not Oraxia. |
-| [pyrana-prime.md](pyrana-prime.md) | Dual shotgun pistol. Ghost gun. |
+| [pyrana-prime.md](pyrana-prime.md) | Ghost gun. Viral+Heat A / Slash bleed B. |
 | [lex-prime-incarnon.md](lex-prime-incarnon.md) | Catchmoon waves. Not Aklex. |
 | [sicarus-prime-incarnon.md](sicarus-prime-incarnon.md) | General burst pistol. |
 | [dual-toxocyst-incarnon.md](dual-toxocyst-incarnon.md) | Kill pistol. Not Mesa. |
