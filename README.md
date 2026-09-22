@@ -37,6 +37,7 @@ Finalized loadouts. Open a file, build it in-game.
 | [nidus.md](nidus.md) | Strain Link. Synapse + Pathocyst. Helminth Charger. |
 | [jade.md](jade.md) | Glory flyer. Two auras. Eyes strip. |
 | [xaku.md](xaku.md) | Grasp guns. Gaze strip. Untime pause. |
+| [revenant.md](revenant.md) | Mesmer tank. Reave. Roar over 4. |
 
 ## Weapons
 
