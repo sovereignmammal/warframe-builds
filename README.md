@@ -64,7 +64,7 @@ Finalized loadouts. Open a file, build it in-game.
 | [gammacor.md](gammacor.md) | Primer. Torid / Burston. Not Mesa, not Oraxia. |
 | [pyrana-prime.md](pyrana-prime.md) | Ghost gun. Viral+Heat A / Slash bleed B. |
 | [lex-prime-incarnon.md](lex-prime-incarnon.md) | Catchmoon waves. Not Aklex. |
-| [sicarus-prime-incarnon.md](sicarus-prime-incarnon.md) | General burst pistol. |
+| [sicarus-prime-incarnon.md](sicarus-prime-incarnon.md) | Riven CC/Heat/damage. Viral + Flare burst. Not Dual Tox. |
 | [dual-toxocyst-incarnon.md](dual-toxocyst-incarnon.md) | Kill pistol. Not Mesa. |
 | [dual-coda-torxica.md](dual-coda-torxica.md) | Heat valence. Spore hip. Viral + Flare. Not Dual Tox. |
 | [tenet-glaxion.md](tenet-glaxion.md) | Cold beam. No Heat. |

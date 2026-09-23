@@ -19,7 +19,7 @@ Dante, Trinity, Ember, Frost, Qorvex, Koumei, Umbra, Jade — see their files. *
 
 ## Incarnons on
 
-Torid, Dual Toxocyst, Burston Prime, Ruvox, Latron Prime, Synoid Gammacor, Soma Prime, Strun Prime, Dread. **Braton Vandal this week.**
+Torid, Dual Toxocyst, Burston Prime, Ruvox, Latron Prime, Synoid Gammacor, Soma Prime, Strun Prime, Dread, Sicarus Prime. **Braton Vandal this week.**
 
 ## Next Incarnon
 
@@ -45,7 +45,8 @@ Torid, Dual Toxocyst, Burston Prime, Ruvox, Latron Prime, Synoid Gammacor, Soma 
 - **Amanata** as the all-frame stick — Koumei only. Sun & Moon stays.
 - **Tenet Envoy** — not a Torid. Toxin 33% valence, fuse to 60%. Guided rocket.
 - **Dread Incarnon** — not a Torid. Riven Sati-concitis stays on. Do not roll.
-- Viral guns into Deep Archimedea / Anatomica — Murmur is **−50% Viral**. Strun A + Sagek A. Not Phage A, not Torid A, not Burston A, not Bubonico, not Proboscis, not Torxica A, not Dread A.
+- **Sicarus Prime Incarnon** — not Dual Tox. Riven Visi-ignicron stays on. Do not roll.
+- Viral guns into Deep Archimedea / Anatomica — Murmur is **−50% Viral**. Strun A + Sagek A. Not Phage A, not Torid A, not Burston A, not Bubonico, not Proboscis, not Torxica A, not Dread A, not Sicarus A.
 
 ## Combining reminder
 
