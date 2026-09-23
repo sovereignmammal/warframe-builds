@@ -50,6 +50,7 @@ Finalized loadouts. Open a file, build it in-game.
 | [burston-prime-incarnon.md](burston-prime-incarnon.md) | Heat hose. Viral A / Hemocyte B / Corrosive C / Slash D. |
 | [braton-vandal-incarnon.md](braton-vandal-incarnon.md) | 3m Heat hose. Circuit this week. |
 | [torid-incarnon.md](torid-incarnon.md) | Viral + HM beam. Uriel / rooms. |
+| [dread-incarnon.md](dread-incarnon.md) | Riven MS/CD/speed. Viral + HM waves. Not Torid. |
 | [boltor-prime-incarnon.md](boltor-prime-incarnon.md) | Worse Burston. Variety. |
 | [phage.md](phage.md) | Innate Viral beam shotgun. Corrosive + Heat leftover. Not Torid. |
 | [coda-bubonico.md](coda-bubonico.md) | Radiation valence. Corrosive pellets, Viral alt. Not Torid. |
