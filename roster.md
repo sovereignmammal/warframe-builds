@@ -35,6 +35,7 @@ Torid, Dual Toxocyst, Burston Prime, Ruvox, Latron Prime, Synoid Gammacor, Soma 
 - **Bubonico** — riven Gas on B. Not Coda. Better disposition.
 - **Proboscis Cernos** — not a Torid. Gun Larva. 9m pull / Viral boom. Not on Khora or Nidus.
 - Dual Tox / Gammacor on Mesa or Oraxia.
+- **Dual Coda Torxica** — not Dual Tox. Heat valence, fuse to 60%. Spore hip. Not Mesa / Nidus / Oraxia.
 - **Coda Tysis** on Mesa — Brakk owns that hip. Heat valence stays Heat; do not Vice to Electric.
 - Hound on Mesa (overshields).
 - Vasca on Garuda.
@@ -43,7 +44,7 @@ Torid, Dual Toxocyst, Burston Prime, Ruvox, Latron Prime, Synoid Gammacor, Soma 
 - **Virulenta** as the all-frame stick — innate Viral. Sun & Moon stays. Not on Garuda / Voruna / Khora / Nidus / Uriel / Xaku.
 - **Amanata** as the all-frame stick — Koumei only. Sun & Moon stays.
 - **Tenet Envoy** — not a Torid. Toxin 33% valence, fuse to 60%. Guided rocket.
-- Viral guns into Deep Archimedea / Anatomica — Murmur is **−50% Viral**. Strun A + Sagek A. Not Phage A, not Torid A, not Burston A, not Bubonico, not Proboscis.
+- Viral guns into Deep Archimedea / Anatomica — Murmur is **−50% Viral**. Strun A + Sagek A. Not Phage A, not Torid A, not Burston A, not Bubonico, not Proboscis, not Torxica A.
 
 ## Combining reminder
 

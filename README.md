@@ -65,6 +65,7 @@ Finalized loadouts. Open a file, build it in-game.
 | [lex-prime-incarnon.md](lex-prime-incarnon.md) | Catchmoon waves. Not Aklex. |
 | [sicarus-prime-incarnon.md](sicarus-prime-incarnon.md) | General burst pistol. |
 | [dual-toxocyst-incarnon.md](dual-toxocyst-incarnon.md) | Kill pistol. Not Mesa. |
+| [dual-coda-torxica.md](dual-coda-torxica.md) | Heat valence. Spore hip. Viral + Flare. Not Dual Tox. |
 | [tenet-glaxion.md](tenet-glaxion.md) | Cold beam. No Heat. |
 | [tenet-envoy.md](tenet-envoy.md) | Guided rocket. Toxin 33%. Viral + Heat + HM. Not Torid. |
 | [grimoire.md](grimoire.md) | Garuda primer book. |
