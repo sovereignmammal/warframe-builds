@@ -15,7 +15,7 @@
 
 ## Other frames (built, not on the 8-loadout bar)
 
-Dante, Trinity, Ember, Frost, Qorvex, Koumei, Umbra, Jade — see their files. **Nidus** — Coda Synapse / Tysis / Pathocyst + Helminth Charger ([nidus.md](nidus.md)). **Xaku Prime** — Grasp / Gaze / Untime, Nautilus Prime ([xaku.md](xaku.md)). **Revenant Prime** — Mesmer / Reave, Panzer ([revenant.md](revenant.md)). **Narin** — Ice dancer, Panzer ([narin.md](narin.md)). Gammacor parked.
+Dante, Trinity, Ember, Frost, Qorvex, Koumei, Umbra, Jade — see their files. **Nidus** — Coda Synapse / Tysis / Pathocyst + Helminth Charger ([nidus.md](nidus.md)). **Xaku Prime** — Grasp / Gaze / Untime, Nautilus Prime ([xaku.md](xaku.md)). **Revenant Prime** — Mesmer / Reave, Panzer ([revenant.md](revenant.md)). **Narin** — Ice dancer, Glaxion + Torxica, Panzer ([narin.md](narin.md)). Gammacor parked.
 
 ## Incarnons on
 
@@ -35,7 +35,7 @@ Torid, Dual Toxocyst, Burston Prime, Ruvox, Latron Prime, Synoid Gammacor, Soma 
 - **Bubonico** — riven Gas on B. Not Coda. Better disposition.
 - **Proboscis Cernos** — not a Torid. Gun Larva. 9m pull / Viral boom. Not on Khora or Nidus.
 - Dual Tox / Gammacor on Mesa or Oraxia.
-- **Dual Coda Torxica** — not Dual Tox. Heat valence, fuse to 60%. Spore hip. Not Mesa / Nidus / Oraxia.
+- **Dual Coda Torxica** — Narin hip. Heat valence, fuse to 60%. Spores paint Cold. Not Dual Tox. Not Mesa / Nidus / Oraxia.
 - **Coda Tysis** on Mesa — Brakk owns that hip. Heat valence stays Heat; do not Vice to Electric.
 - Hound on Mesa (overshields).
 - Vasca on Garuda.

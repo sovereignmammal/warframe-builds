@@ -38,7 +38,7 @@ Finalized loadouts. Open a file, build it in-game.
 | [jade.md](jade.md) | Glory flyer. Two auras. Eyes strip. |
 | [xaku.md](xaku.md) | Grasp guns. Gaze strip. Untime pause. Nautilus Cordon. |
 | [revenant.md](revenant.md) | Mesmer tank. Reave. Roar over 4. |
-| [narin.md](narin.md) | Ice dancer. 3 paint, 2 drink, 4 dance. |
+| [narin.md](narin.md) | Ice dancer. Glaxion + Torxica. 0 forma. |
 
 ## Weapons
 
@@ -67,8 +67,8 @@ Finalized loadouts. Open a file, build it in-game.
 | [lex-prime-incarnon.md](lex-prime-incarnon.md) | Catchmoon waves. Not Aklex. |
 | [sicarus-prime-incarnon.md](sicarus-prime-incarnon.md) | Riven CC/Heat/damage. Viral + Flare burst. Not Dual Tox. |
 | [dual-toxocyst-incarnon.md](dual-toxocyst-incarnon.md) | Kill pistol. Not Mesa. |
-| [dual-coda-torxica.md](dual-coda-torxica.md) | Heat valence. Spore hip. Viral + Flare. Not Dual Tox. |
-| [tenet-glaxion.md](tenet-glaxion.md) | Cold beam. No Heat. |
+| [dual-coda-torxica.md](dual-coda-torxica.md) | Narin hip. Heat valence. Spore Cold. Viral + Flare. |
+| [tenet-glaxion.md](tenet-glaxion.md) | Narin Cold beam. No Heat. |
 | [tenet-envoy.md](tenet-envoy.md) | Guided rocket. Toxin 33%. Viral + Heat + HM. Not Torid. |
 | [grimoire.md](grimoire.md) | Garuda primer book. |
 | [dual-ether.md](dual-ether.md) | Influence. Khora B. |
