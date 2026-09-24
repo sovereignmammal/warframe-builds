@@ -19,7 +19,7 @@ Jobs, not a zoo. **Panzer** is the default fox. No Smeeta, no Diriga, no Chesa.
 
 **Park:** extra Huras (Dubious Creature, Name Him), Vasca (Ugly Cat), both Taxons. Helminth Charger is **Nidus only** once Strain is on — park it until then. Do not buy Carrier / Dethcube for 75p.
 
-**Panzer** is the combat default on frames without a locked pet (Dante, Trinity, Ember, Frost, Qorvex, Koumei, Umbra, Jade, Revenant). Does not replace the hound, Oxylus, Sahasa, Huras, Venari, or Nautilus.
+**Panzer** is the combat default on frames without a locked pet (Dante, Trinity, Ember, Frost, Qorvex, Koumei, Umbra, Jade, Revenant, Narin). Does not replace the hound, Oxylus, Sahasa, Huras, Venari, or Nautilus.
 
 **Mesa overshields:** no Shield Charger, no Guardian. Overshields eat the hit before Catalyzing breaks.
 
