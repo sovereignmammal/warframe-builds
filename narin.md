@@ -25,7 +25,7 @@ Aura **Growing Power**. Exilus **Natural Talent** until Amber shards, then **Pow
 
 Strength first — 2’s Overguard and 3’s Cold vulnerability scale with it. Range is 2’s siphon and 3’s landing. Duration holds 4. **45% efficiency is fine.**
 
-Innate **V V – D**, aura **V**, exilus **–**. Put Blind Rage + Primed Continuity on the Vs, Archon Flow on the dash, Adaptation on the D. **0 forma** with Intensify. Umbral Intensify is **1 Umbra + 1 Naramon** (Equilibrium). Potato is already on. Exilus adapter for Natural Talent.
+Innate **V V – D**, exilus **–**. Aura is **not** Madurai. **1 forma** — aura → **V** for Growing Power. Then Blind Rage + Primed Continuity on the Vs, Archon Flow on the dash, Adaptation on the D. Intensify in a blank. Umbral Intensify is that plus **1 Umbra + 1 Naramon** (Equilibrium). Potato is already on. Exilus adapter for Natural Talent.
 
 **Not** Primed Flow — Archon Flow is the same pool, and 1 / 3 / 4 actually kill with Cold. Orb is **10%** on a Cold-ability kill, **10s** CD. Guns and Cold *procs* do not count. **Not** Overextended until Strength is comfortable. **Not** Transient Fortitude — 4 dies. **Not** Archon Intensify — 2 restores shields, not HP. **Not** Archon Vitality for Heat — abilities are Cold.
 
