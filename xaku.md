@@ -1,6 +1,6 @@
 # Xaku Prime — Grasp / Gaze / Untime
 
-Range first. Grasp guns scale off enemy level. Gaze strips. **4 pauses 1/2/3 timers.** Companion: **Panzer**.
+Range first. Grasp guns scale off enemy level. Gaze strips. **4 pauses 1/2/3 timers.** Companion: **Nautilus Prime**. Cordon is the grouper. **Not** Panzer on this frame.
 
 Gaze full-strips armor and shields at **200%** Strength, or **164%** with Corrosive Projection. Hit that after Overextended. **Do not Precision Intensify** — Gaze and Grasp need global Strength.
 
@@ -37,7 +37,7 @@ Sheet Strength **~169–183%** with CP (Blind Rage + Intensify/Umbral − Overex
 
 ## Play
 
-**4 first** → **2** steal guns → cycle **3** to **Gaze** → Gaze a fat enemy that will live (Eximus, not a trash mob about to die). Walk the orbit through the aura. Recast **4 before it dies** or the guns and Gaze start ticking. Recast **2** when you need fresh level-scaled guns.
+**4 first** → **2** steal guns → cycle **3** to **Gaze** → Gaze a fat enemy that will live (Eximus, not a trash mob about to die). Cordon piles the rest into the aura. Walk the orbit. Recast **4 before it dies** or the guns and Gaze start ticking. Recast **2** when you need fresh level-scaled guns.
 
 Accuse is optional CC. Deny is the beam when the orbit is full. Gaze a dead target before the tendrils land and the energy comes back.
 

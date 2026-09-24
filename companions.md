@@ -15,10 +15,11 @@ Jobs, not a zoo. **Panzer** is the default fox. No Smeeta, no Diriga, no Chesa.
 | **Caliban 4 Spam** | Sahasa |
 | **Oraxia SP** | Oxylus + **Seismic Bond** |
 | **Nidus Strain** | **Helminth Charger** |
+| **Xaku Grasp** | **Nautilus Prime** (Cordon) |
 
 **Park:** extra Huras (Dubious Creature, Name Him), Vasca (Ugly Cat), both Taxons. Helminth Charger is **Nidus only** once Strain is on — park it until then. Do not buy Carrier / Dethcube for 75p.
 
-**Panzer** is the combat default on frames without a locked pet (Dante, Trinity, Ember, Frost, Qorvex, Koumei, Umbra, Jade, Xaku, Revenant). Does not replace the hound, Oxylus, Sahasa, Huras, or Venari.
+**Panzer** is the combat default on frames without a locked pet (Dante, Trinity, Ember, Frost, Qorvex, Koumei, Umbra, Jade, Revenant). Does not replace the hound, Oxylus, Sahasa, Huras, Venari, or Nautilus.
 
 **Mesa overshields:** no Shield Charger, no Guardian. Overshields eat the hit before Catalyzing breaks.
 
@@ -180,6 +181,53 @@ Toxin mod + innate Cold → **Viral**. Leftover Cold stays.
 | 6–8 | empty, or another 60/60 Toxin if Viral feels thin |
 
 Shivering Contagion if you own it (spreads the leftover Cold). Heat off. Electric off unless you also put Rime, or Toxin + Electric fuse into Corrosive and Viral dies.
+
+## Nautilus Prime — Xaku (Cordon)
+
+**Cordon** is the job. **30m** look, **15s** CD, yanks a pack **15m** toward a point **5m** in front of you. Xaku has no Larva. Gaze the ball. Grasp guns hose it.
+
+**Xaku only** as the lock. Revenant already has Enthrall. Khora / Nidus / Oraxia already group. **Not Mesa.** **Not Koumei** — Assault Mode steals Loading kills. Dante / Ember / Frost / Qorvex / Jade can borrow when Xaku is parked.
+
+**Cordon is slot 1.** Precepts read left-to-right, top-to-bottom. If it is not first, Assault Mode wastes the yank.
+
+**Do not** steal **Manifold Bond** off Juno Ty. **Do not** steal **Seismic Bond** / **Synth Deconstruct** / **Primed Regen** off Oxylus. **Do not** steal **Reinforced Bond** / Duplex / Tenacious off Panzer. **Do not** Contagious Bond — Verglas should not get the kill.
+
+| Slot | Mod |
+| --- | --- |
+| 1 | **Cordon** |
+| 2 | **Assault Mode** |
+| 3 | Vacuum |
+| 4 | Guardian |
+| 5 | Animal Instinct |
+| 6 | Regen *(second Primed Regen if you have it)* |
+| 7 | Calculated Redirection *(second copy — Panzer keeps the first)* |
+| 8 | Enhanced Vitality |
+
+Guardian is fine — Xaku is not Catalyzing on A. **Not** Shield Charger if you ever lend this to Mesa.
+
+### Flex
+
+| Want | Swap |
+| --- | --- |
+| Second Manifold | Enhanced Vitality → **Manifold Bond**. Cordon stays slot 1. Still do not take it off Juno Ty. |
+| Fire rate | Enhanced Vitality → **Reinforced Bond** if a second copy and Redirection hits **1200** shields |
+
+### Verglas Prime
+
+Innate **Cold** beam. **14% / 2.2x / 36%.** Mag **80**. Primer, not a killer. Stronger than Artax — **Do not** Serration. **Do not** crit. Tenacious will not hit **50%** without a riven.
+
+Toxin mod + innate Cold → **Viral**. Leftover Cold stays.
+
+| Slot | Mod |
+| --- | --- |
+| 1 | Malignant Force |
+| 2 | Rifle Elementalist |
+| 3 | Vigilante Armaments |
+| 4 | Sinister Reach |
+| 5 | Vile Acceleration *(or Speed Trigger)* |
+| 6–8 | empty, or another 60/60 Toxin if Viral feels thin |
+
+**Do not** Heat — Blast. **Do not** Electric unless you also put Rime, or Toxin + Electric fuse into Corrosive and Viral dies. **Do not** Fired Up. Same skeleton as Artax.
 
 ## Vasca (Ugly Cat)
 

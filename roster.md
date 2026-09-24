@@ -15,7 +15,7 @@
 
 ## Other frames (built, not on the 8-loadout bar)
 
-Dante, Trinity, Ember, Frost, Qorvex, Koumei, Umbra, Jade — see their files. **Nidus** — Coda Synapse / Tysis / Pathocyst + Helminth Charger ([nidus.md](nidus.md)). **Xaku Prime** — Grasp / Gaze / Untime, Panzer ([xaku.md](xaku.md)). **Revenant Prime** — Mesmer / Reave, Panzer ([revenant.md](revenant.md)). Gammacor parked.
+Dante, Trinity, Ember, Frost, Qorvex, Koumei, Umbra, Jade — see their files. **Nidus** — Coda Synapse / Tysis / Pathocyst + Helminth Charger ([nidus.md](nidus.md)). **Xaku Prime** — Grasp / Gaze / Untime, Nautilus Prime ([xaku.md](xaku.md)). **Revenant Prime** — Mesmer / Reave, Panzer ([revenant.md](revenant.md)). Gammacor parked.
 
 ## Incarnons on
 
