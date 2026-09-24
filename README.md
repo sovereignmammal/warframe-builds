@@ -57,6 +57,7 @@ Finalized loadouts. Open a file, build it in-game.
 | [coda-bubonico.md](coda-bubonico.md) | Radiation valence. Corrosive pellets, Viral alt. Not Torid. |
 | [bubonico.md](bubonico.md) | Riven Gas B. Charged Shell A when the card is off. |
 | [proboscis-cernos.md](proboscis-cernos.md) | 9m pull, Viral boom. Not Torid. Not Larva. |
+| [mutalist-cernos.md](mutalist-cernos.md) | Split Flights clouds. Primed Firestorm. Viral. Not Proboscis. |
 | [soma-prime-incarnon.md](soma-prime-incarnon.md) | Slash shotgun Incarnon. Not Burston. Not Mesa. |
 | [strun-prime-incarnon.md](strun-prime-incarnon.md) | DA shotgun. Radiation + leftover Blast. No Viral. |
 | [sagek-prime.md](sagek-prime.md) | DA hip. Radiation Irradiate. Not Dual Tox. Not Mesa. |

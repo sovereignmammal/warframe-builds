@@ -34,6 +34,7 @@ Torid, Dual Toxocyst, Burston Prime, Ruvox, Latron Prime, Synoid Gammacor, Soma 
 - **Coda Bubonico** — not a Torid. Radiation valence. Corrosive pellets / Viral mites. Not into Anatomica.
 - **Bubonico** — riven Gas on B. Not Coda. Better disposition.
 - **Proboscis Cernos** — not a Torid. Gun Larva. 9m pull / Viral boom. Not on Khora or Nidus.
+- **Mutalist Cernos** — not Proboscis. Split Flights + Primed Firestorm clouds. Not a Torid.
 - Dual Tox / Gammacor on Mesa or Oraxia.
 - **Dual Coda Torxica** — Narin hip. Heat valence, fuse to 60%. Spores paint Cold. Not Dual Tox. Not Mesa / Nidus / Oraxia.
 - **Coda Tysis** on Mesa — Brakk owns that hip. Heat valence stays Heat; do not Vice to Electric.
@@ -46,7 +47,7 @@ Torid, Dual Toxocyst, Burston Prime, Ruvox, Latron Prime, Synoid Gammacor, Soma 
 - **Tenet Envoy** — not a Torid. Toxin 33% valence, fuse to 60%. Guided rocket.
 - **Dread Incarnon** — not a Torid. Riven Sati-concitis stays on. Do not roll.
 - **Sicarus Prime Incarnon** — not Dual Tox. Riven Visi-ignicron stays on. Do not roll.
-- Viral guns into Deep Archimedea / Anatomica — Murmur is **−50% Viral**. Strun A + Sagek A. Not Phage A, not Torid A, not Burston A, not Bubonico, not Proboscis, not Torxica A, not Dread A, not Sicarus A.
+- Viral guns into Deep Archimedea / Anatomica — Murmur is **−50% Viral**. Strun A + Sagek A. Not Phage A, not Torid A, not Burston A, not Bubonico, not Proboscis, not Torxica A, not Dread A, not Sicarus A, not Mutalist A.
 
 ## Combining reminder
 
