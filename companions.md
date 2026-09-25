@@ -16,11 +16,11 @@ Jobs, not a zoo. **Panzer** is the default fox. No Smeeta, no Diriga, no Chesa.
 | **Oraxia SP** | Oxylus + **Seismic Bond** |
 | **Nidus Strain** | **Helminth Charger** |
 | **Xaku Grasp** | **Nautilus Prime** (Cordon) |
-| **Citrine Gem** | **Vasca** (Prismatic Companion) |
+| **Citrine Gem** | **Vizier Predasite** (Vasca until gilded) |
 
-**Park:** extra Huras (Dubious Creature, Name Him), both Taxons. Vasca is **Citrine** now. Helminth Charger is **Nidus only** once Strain is on — park it until then. Do not buy Carrier / Dethcube for 75p.
+**Park:** extra Huras (Dubious Creature, Name Him), both Taxons. Vasca parks once Vizier is gilded. Helminth Charger is **Nidus only** once Strain is on — park it until then. Do not buy Carrier / Dethcube for 75p.
 
-**Panzer** is the combat default on frames without a locked pet (Dante, Trinity, Ember, Frost, Qorvex, Koumei, Umbra, Jade, Revenant, Narin). Does not replace the hound, Oxylus, Sahasa, Huras, Venari, Nautilus, or Vasca.
+**Panzer** is the combat default on frames without a locked pet (Dante, Trinity, Ember, Frost, Qorvex, Koumei, Umbra, Jade, Revenant, Narin). Does not replace the hound, Oxylus, Sahasa, Huras, Venari, Nautilus, or Vizier.
 
 **Mesa overshields:** no Shield Charger, no Guardian. Overshields eat the hit before Catalyzing breaks.
 
@@ -230,28 +230,38 @@ Toxin mod + innate Cold → **Viral**. Leftover Cold stays.
 
 **Do not** Heat — Blast. **Do not** Electric unless you also put Rime, or Toxin + Electric fuse into Corrosive and Viral dies. **Do not** Fired Up. Same skeleton as Artax.
 
-## Vasca (Ugly Cat) — Citrine gem taxi
+## Vizier Predasite — Citrine gem taxi
 
-**Citrine only.** Prismatic Companion needs a **walking** pet. Sentinels and Panzer larva refuse the gem. Draining Bite healing the **cat** is why she stays up. Transfusion is still bleedout revive, 120s, dead in Arbitrations. **Not Charm.** **Not Garuda.**
+**Citrine only.** Highest claw status (**30%**). Acidic Spittle paints at range. Iatric Mycelium is the heal trail. Pharaoh is 25%. Medjay is 20%. **Do not** those.
 
-The cat has to **swing**. Companion hits fire gem beams. **Not** Elusive.
+Capture a **Weakened Vizier** on Cambion Drift — Infested have to hit it first, orange shimmer, then tranq. Son, 5k standing.
+
+**Mutagen: Chiten.** Slash + Electricity resist. Bleed is what kills pets. Rank 2. **Do not** Leptosam — Heat/Puncture does not stop Slash. Monachod is the other Slash mutagen if you already have Friend; breed Chiten + Monachod later for **75%** Slash resist. First gen does not need that.
+
+**Antigen: Iranon.** Vazarin polarity. Matches Guardian / Medi-Pet / both Links. Rank 1. Gild polarity **Naramon** (Fetch / Instinct).
+
+Vasca until the dog is gilded. Same walking-pet rule. **Do not** Diversified Denial.
 
 | Slot | Mod |
 | --- | --- |
-| 1 | Fetch |
-| 2 | Medi-Pet Kit |
-| 3 | Link Vitality |
-| 4 | Link Fiber |
-| 5 | Animal Instinct |
-| 6 | Guardian |
-| 7 | Pack Leader |
-| 8 | Hunter Recovery |
+| 1 | **Acidic Spittle** |
+| 2 | **Iatric Mycelium** |
+| 3 | Fetch |
+| 4 | Medi-Pet Kit |
+| 5 | Link Vitality |
+| 6 | Link Fiber |
+| 7 | Guardian |
+| 8 | Pack Leader |
 
-**Do not** Panzer Devolution on this frame. **Do not** Diversified Denial. **Do not** steal Manifold / Seismic / Tandem.
+Hunter Recovery / Animal Instinct if you forma extra. **Do not** steal Manifold / Seismic / Tandem.
 
 ### Claws
 
-**Bite** so hits land. Balanced Posture. Empty damage slots. No Maul.
+**Bite.** Balanced Posture. Empty damage slots. No Maul.
+
+## Vasca (Ugly Cat) — parked
+
+Citrine backup until Vizier is gilded. Then park. Same Fetch / survive / Pack Leader 8, Bite on claws. **Not Charm.** **Not Garuda.**
 
 ## Panzer Vulpaphyla — default fox
 

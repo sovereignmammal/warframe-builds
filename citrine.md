@@ -1,6 +1,6 @@
 # Citrine Prime — Prismatic Companion
 
-**3** is the frame. Gem rides the pet. Recast before it dies. Companion: **Vasca**. Walking pet or the gem sits on the floor.
+**3** is the frame. Gem rides the pet. Recast before it dies. Companion: **Vizier Predasite**. Walking pet or the gem sits on the floor. Vasca until the dog is gilded.
 
 **Do not** Panzer — **Panzer Devolution** is a larva, augment refuses it. **Do not** Nautilus / Oxylus / any sentinel. **Do not** steal Juno Ty, Aga, Sahasa, Huras, Venari, or the Charger. **Do not Diversified Denial.**
 
@@ -31,7 +31,7 @@ Augment is **+50%** gem duration, multiplicative. Base **30s → 45s** before Co
 
 ## Play
 
-**3 first.** Gem glues to Vasca. **2** up. **1** the pack — Slash orbs. Shoot. The cat walks the aurora; companion swings also fire gem beams. Recast 3 when the timer is low, not at zero. Recast 2 before the shell drops. 1 is free-action, keep flicking.
+**3 first.** Gem glues to Vizier. **2** up. **1** the pack — Slash orbs. Shoot. The dog walks the aurora; companion swings also fire gem beams. Recast 3 when the timer is low, not at zero. Recast 2 before the shell drops. 1 is free-action, keep flicking.
 
 ## Helminth
 
@@ -47,4 +47,4 @@ Crimson Strength. Do not pull Amber off Garuda. Next two yellows go here.
 
 ## Companion
 
-**Vasca** — [companions.md](companions.md). Fetch, stay alive, **swing**. Draining Bite healing the cat is the point now. Transfusion still junk. Vizier Predasite if you ever farm one — highest status. Not the lock.
+**Vizier Predasite** — [companions.md](companions.md). Capture **Weakened Vizier**. Mutagen **Chiten**. Antigen **Iranon**. Fetch, stay alive, **swing**. Vasca until gilded.

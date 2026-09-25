@@ -1,6 +1,6 @@
 # Garuda — Melee SP
 
-Slash caster / talons. Bloodletting is infinite energy. Companion: **Juno Ty** (Hinta primer). Pack Leader works because you melee. Aga stays Voruna / Saryn. **Not** Vasca — Citrine wears the cat. Draining Bite heals the cat; Transfusion is a bleedout button you should never press.
+Slash caster / talons. Bloodletting is infinite energy. Companion: **Juno Ty** (Hinta primer). Pack Leader works because you melee. Aga stays Voruna / Saryn. **Not** Vasca / Vizier — Citrine wears the dog.
 
 ## Config A — Blending Talons (~3 Forma)
 
