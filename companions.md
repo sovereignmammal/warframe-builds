@@ -16,10 +16,11 @@ Jobs, not a zoo. **Panzer** is the default fox. No Smeeta, no Diriga, no Chesa.
 | **Oraxia SP** | Oxylus + **Seismic Bond** |
 | **Nidus Strain** | **Helminth Charger** |
 | **Xaku Grasp** | **Nautilus Prime** (Cordon) |
+| **Citrine Gem** | **Vasca** (Prismatic Companion) |
 
-**Park:** extra Huras (Dubious Creature, Name Him), Vasca (Ugly Cat), both Taxons. Helminth Charger is **Nidus only** once Strain is on — park it until then. Do not buy Carrier / Dethcube for 75p.
+**Park:** extra Huras (Dubious Creature, Name Him), both Taxons. Vasca is **Citrine** now. Helminth Charger is **Nidus only** once Strain is on — park it until then. Do not buy Carrier / Dethcube for 75p.
 
-**Panzer** is the combat default on frames without a locked pet (Dante, Trinity, Ember, Frost, Qorvex, Koumei, Umbra, Jade, Revenant, Narin). Does not replace the hound, Oxylus, Sahasa, Huras, Venari, or Nautilus.
+**Panzer** is the combat default on frames without a locked pet (Dante, Trinity, Ember, Frost, Qorvex, Koumei, Umbra, Jade, Revenant, Narin). Does not replace the hound, Oxylus, Sahasa, Huras, Venari, Nautilus, or Vasca.
 
 **Mesa overshields:** no Shield Charger, no Guardian. Overshields eat the hit before Catalyzing breaks.
 
@@ -229,9 +230,28 @@ Toxin mod + innate Cold → **Viral**. Leftover Cold stays.
 
 **Do not** Heat — Blast. **Do not** Electric unless you also put Rime, or Toxin + Electric fuse into Corrosive and Viral dies. **Do not** Fired Up. Same skeleton as Artax.
 
-## Vasca (Ugly Cat)
+## Vasca (Ugly Cat) — Citrine gem taxi
 
-Park. Draining Bite heals the **cat**. Transfusion is bleedout revive, 120s, dead in Arbitrations. Not Charm. Not Garuda.
+**Citrine only.** Prismatic Companion needs a **walking** pet. Sentinels and Panzer larva refuse the gem. Draining Bite healing the **cat** is why she stays up. Transfusion is still bleedout revive, 120s, dead in Arbitrations. **Not Charm.** **Not Garuda.**
+
+The cat has to **swing**. Companion hits fire gem beams. **Not** Elusive.
+
+| Slot | Mod |
+| --- | --- |
+| 1 | Fetch |
+| 2 | Medi-Pet Kit |
+| 3 | Link Vitality |
+| 4 | Link Fiber |
+| 5 | Animal Instinct |
+| 6 | Guardian |
+| 7 | Pack Leader |
+| 8 | Hunter Recovery |
+
+**Do not** Panzer Devolution on this frame. **Do not** Diversified Denial. **Do not** steal Manifold / Seismic / Tandem.
+
+### Claws
+
+**Bite** so hits land. Balanced Posture. Empty damage slots. No Maul.
 
 ## Panzer Vulpaphyla — default fox
 
