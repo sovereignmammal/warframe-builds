@@ -39,7 +39,7 @@ Augment is **+50%** gem duration, multiplicative. Base **30s → 45s** before Co
 
 ## Weapons
 
-Whatever you already shoot. Gem paints Heat / Cold / Toxin / Electric on weapon hits. **Do not** steal Torid (Uriel), Glaxion (Narin), Brakk (Mesa), Dual Tox (Uriel), Torxica (Narin), Synapse (Nidus), Sicarus, or Dread’s riven. **Sun & Moon** when you swing. Steflos / Corufell if you have the signatures — not a steal.
+Whatever you already shoot. Gem paints Heat / Cold / Toxin / Electric on weapon hits. **Do not** steal Torid (Uriel), Glaxion (Narin), Brakk (Mesa), Dual Tox (Uriel), Torxica (Narin), Synapse (Nidus), Sicarus, or Dread’s riven. **Corufell Prime** when you swing ([corufell-prime.md](corufell-prime.md)). Sun & Moon stays on other frames. Steflos Prime if you have it — not a steal.
 
 ## Shards
 

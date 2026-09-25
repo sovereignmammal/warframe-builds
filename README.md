@@ -85,6 +85,7 @@ Finalized loadouts. Open a file, build it in-game.
 | [war-prime.md](war-prime.md) | Uriel slam blade. Influence. No Heat. |
 | [war.md](war.md) | Un-Prime. Use War Prime. |
 | [xoris.md](xoris.md) | Sister hunt. Heavy Influence throw. Granum hand. |
+| [corufell-prime.md](corufell-prime.md) | Citrine gunblade scythe. Influence heavy. No Heat mods. |
 | [roster.md](roster.md) | Who wears what. Skip list. |
 | [companions.md](companions.md) | Pets, assignments, locked 8s. |
 
