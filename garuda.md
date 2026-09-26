@@ -29,4 +29,4 @@ Aura **Brief Respite**. Exilus **Natural Talent** until Amber cast-speed shards.
 
 Use **Garuda Prime Talons**. Seeking Talons Slash scales off fat **base damage**, not elemental mods. **Juno Ty** paints the room for Talons / CO. Heat leftover on the claws is the extra Grimoire does not have.
 
-**Tenet Arca Plasmor** when you shoot ([tenet-arca-plasmor.md](tenet-arca-plasmor.md)). Riven stays on. Grimoire stays the primer. **Do not** steal Torid, Glaxion, Fulmin, Synapse, Sobek, or Dread’s riven.
+**Tenet Arca Plasmor** when you shoot ([tenet-arca-plasmor.md](tenet-arca-plasmor.md)). Viral A, riven on B. Grimoire stays the primer. **Do not** steal Torid, Glaxion, Fulmin, Synapse, Sobek, or Dread’s riven.

@@ -48,7 +48,7 @@ Torid, Dual Toxocyst, Burston Prime, Ruvox, Latron Prime, Synoid Gammacor, Soma 
 - **Tenet Envoy** — not a Torid. Toxin 33% valence, fuse to 60%. Guided rocket.
 - **Dread Incarnon** — not a Torid. Riven Sati-concitis stays on. Do not roll.
 - **Sicarus Prime Incarnon** — not Dual Tox. Riven Visi-ignicron stays on. Do not roll.
-- **Tenet Arca Plasmor** — Garuda primary. Riven Acri-gelitio stays on. Do not roll. Toxin 51.3%, fuse to 60%. Not a Torid. Not Mesa / Narin / Oraxia / Nidus.
+- **Tenet Arca Plasmor** — Garuda primary. Viral A, no riven. Acri-gelitio is B only — Electric eats Viral. Toxin 51.3%, fuse to 60%. Not a Torid. Not Mesa / Narin / Oraxia / Nidus.
 - **Laetum** — Koumei hip. Devouring Attrition. No crit mods. Not Dual Tox. Not Mesa.
 - Viral guns into Deep Archimedea / Anatomica — Murmur is **−50% Viral**. Strun A + Sagek A. TAP **B**. Not Phage A, not Torid A, not Burston A, not Bubonico, not Proboscis, not Torxica A, not Dread A, not Sicarus A, not Mutalist A, not TAP A, not Laetum A.
 
