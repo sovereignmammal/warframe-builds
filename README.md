@@ -72,6 +72,8 @@ Finalized loadouts. Open a file, build it in-game.
 | [dual-coda-torxica.md](dual-coda-torxica.md) | Narin hip. Heat valence. Spore Cold. Viral + Flare. |
 | [tenet-glaxion.md](tenet-glaxion.md) | Narin Cold beam. No Heat. |
 | [tenet-envoy.md](tenet-envoy.md) | Guided rocket. Toxin 33%. Viral + Heat + HM. Not Torid. |
+| [tenet-arca-plasmor.md](tenet-arca-plasmor.md) | Garuda shotgun. Toxin valence. Viral + Radiation. |
+| [laetum.md](laetum.md) | Koumei hip. Devouring Attrition. No crit mods. |
 | [grimoire.md](grimoire.md) | Garuda primer book. |
 | [dual-ether.md](dual-ether.md) | Influence. Khora B. |
 | [sun-and-moon.md](sun-and-moon.md) | All-frame Influence. Nidus uses Pathocyst instead. |

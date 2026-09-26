@@ -9,7 +9,7 @@
 | **Caliban** | Burston Config C or Torid | Gammacor | Broken Scepter (orbs) | Sahasa |
 | **Khora** | whatever (Dexterity) | optional primer | Whipclaw / Dual Ether | Venari Heal (A) / Attack (B) |
 | **Voruna** | Burston / Torid | Gammacor | Dex Nikana B / Ulfrun | Aga Umbonek |
-| **Garuda** | fat base-damage | Grimoire primer | **Talons** | Juno Ty |
+| **Garuda** | **Tenet Arca Plasmor** | Grimoire primer | **Talons** | Juno Ty |
 | **Saryn** | Kuva Sobek (A) / Torid (B) | — | Lash is melee | Aga Umbonek |
 | **Uriel** | Torid Incarnon | Dual Tox / Brakk | Ruvox / War Prime | Demonic Vermin |
 
@@ -19,7 +19,7 @@ Dante, Trinity, Ember, Frost, Qorvex, Koumei, Umbra, Jade — see their files. *
 
 ## Incarnons on
 
-Torid, Dual Toxocyst, Burston Prime, Ruvox, Latron Prime, Synoid Gammacor, Soma Prime, Strun Prime, Dread, Sicarus Prime. **Braton Vandal this week.**
+Torid, Dual Toxocyst, Burston Prime, Ruvox, Latron Prime, Synoid Gammacor, Soma Prime, Strun Prime, Dread, Sicarus Prime, **Laetum**. **Braton Vandal this week.**
 
 ## Next Incarnon
 
@@ -48,7 +48,9 @@ Torid, Dual Toxocyst, Burston Prime, Ruvox, Latron Prime, Synoid Gammacor, Soma 
 - **Tenet Envoy** — not a Torid. Toxin 33% valence, fuse to 60%. Guided rocket.
 - **Dread Incarnon** — not a Torid. Riven Sati-concitis stays on. Do not roll.
 - **Sicarus Prime Incarnon** — not Dual Tox. Riven Visi-ignicron stays on. Do not roll.
-- Viral guns into Deep Archimedea / Anatomica — Murmur is **−50% Viral**. Strun A + Sagek A. Not Phage A, not Torid A, not Burston A, not Bubonico, not Proboscis, not Torxica A, not Dread A, not Sicarus A, not Mutalist A.
+- **Tenet Arca Plasmor** — Garuda primary. Toxin 51.3%, fuse to 60%. Viral + Radiation. Not a Torid. Not Mesa / Narin / Oraxia / Nidus.
+- **Laetum** — Koumei hip. Devouring Attrition. No crit mods. Not Dual Tox. Not Mesa.
+- Viral guns into Deep Archimedea / Anatomica — Murmur is **−50% Viral**. Strun A + Sagek A. Not Phage A, not Torid A, not Burston A, not Bubonico, not Proboscis, not Torxica A, not Dread A, not Sicarus A, not Mutalist A, not TAP A, not Laetum A.
 
 ## Combining reminder
 
