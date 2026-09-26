@@ -6,13 +6,13 @@
 
 **Arca Plasmor Acri-gelitio** stays on. **Do not roll.** Cold **51.2%**, CD **54.8%**, Electric **47.5%**, −**24.3%** reload. Twelve cycles already hit the card. Family is Arca Plasmor — it slots. TAP disp shrinks the numbers; the **elements** are why. Regular Plasmor is junk; do not park it there.
 
-Cold + Electric on the riven fuse **Magnetic**. Reload’s leftover Cold + Toxin valence = **Viral**. Radiation leftover.
+Cold + Electric on the riven fuse **Magnetic**. That Cold does **not** make Viral. **Primed Chilling Grasp** leftover Cold + Toxin valence = **Viral**. Radiation leftover.
 
 **Garuda** primary. Fat base. Grimoire stays the hip. Talons stay the claws. **Not** a Torid. **Not Mesa.** **Not** Glaxion (Narin). **Not** Fulmin (Oraxia). **Not** Synapse (Nidus).
 
 ## Config A — riven Viral + Magnetic + Radiation *(this is the 8)*
 
-Eat **Primed Chilling Grasp**. Keep **Chilling Reload** — that Cold is the Viral.
+Riven is Magnetic. **Grasp** is the Viral. Reload pays the tax and dumps extra Cold into Viral.
 
 | Slot | Mod |
 | --- | --- |
@@ -22,20 +22,20 @@ Eat **Primed Chilling Grasp**. Keep **Chilling Reload** — that Cold is the Vir
 | 4 | Primed Ravage |
 | 5 | Primed Point Blank |
 | 6 | **Arca Plasmor Acri-gelitio** |
-| 7 | Shotgun Elementalist |
+| 7 | **Primed Chilling Grasp** |
 | 8 | Chilling Reload |
 | Exilus | Fatal Acceleration |
 | Arcane | **Primary Merciless** |
 
 Savvy is multiplicative on the **direct hit**. Merciless + Reload pay the −reload tax. Acceleration pushes falloff out.
 
-**Do not** Heat — Blast, Viral dies. **Do not** another Toxin 90 — dumps into Viral. **Do not** another Electric — Magnetic eats Reload’s Cold, Viral dies. **Do not** Deadhead — heads are 1×. **Do not** Compression. **Do not** Galvanized Chamber / Critical Delay — those are rifle. **Do not** Grasp with the riven — wasted Cold.
+**Do not** Heat — Blast, Viral dies. **Do not** another Toxin 90 — dumps into Viral. **Do not** another Electric — Magnetic eats Grasp’s Cold, Viral dies. **Do not** Deadhead — heads are 1×. **Do not** Compression. **Do not** Galvanized Chamber / Critical Delay — those are rifle. **Do not** drop Grasp — riven Cold is already Magnetic.
 
 UI: **Viral + Magnetic + Radiation**.
 
 ## Config B — DA / Anatomica
 
-Murmur is **−50% Viral**. Eat Chilling Reload → **Vigilante Armaments**. Toxin valence leftover. No Cold leftover, no Viral.
+Murmur is **−50% Viral**. Eat Grasp **and** Reload → Shotgun Elementalist + Vigilante Armaments. Toxin valence leftover. No Cold leftover, no Viral.
 
 UI: **Magnetic + Toxin + Radiation**.
 
