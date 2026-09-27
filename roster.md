@@ -15,7 +15,7 @@
 
 ## Other frames (built, not on the 8-loadout bar)
 
-Dante, Trinity, Ember, Frost, Qorvex, Koumei, Umbra, Jade — see their files. **Nidus** — Coda Synapse / Tysis / Pathocyst + Helminth Charger ([nidus.md](nidus.md)). **Xaku Prime** — Grasp / Gaze / Untime, Nautilus Prime ([xaku.md](xaku.md)). **Revenant Prime** — Mesmer / Reave, Panzer ([revenant.md](revenant.md)). **Narin** — Ice dancer, Glaxion + Aksondol, Panzer ([narin.md](narin.md)). **Citrine Prime** — Prismatic Companion, Vizier Predasite, Venato Prime ([citrine.md](citrine.md)). **Sirius & Orion** — Clash, Panzer ([sirius-orion.md](sirius-orion.md)). Gammacor parked.
+Dante, Trinity, Ember, Frost, Qorvex, Koumei, Umbra, Jade — see their files. **Nidus** — Coda Synapse / Tysis / Pathocyst + Helminth Charger ([nidus.md](nidus.md)). **Xaku Prime** — Grasp / Gaze / Untime, Nautilus Prime ([xaku.md](xaku.md)). **Revenant Prime** — Mesmer / Reave, Panzer ([revenant.md](revenant.md)). **Narin** — Ice dancer, Glaxion + Aksondol, Panzer ([narin.md](narin.md)). **Citrine Prime** — Prismatic Companion, Vizier Predasite, Venato Prime ([citrine.md](citrine.md)). **Sirius & Orion** — Clash, Vinquibus, Panzer ([sirius-orion.md](sirius-orion.md)). Gammacor parked.
 
 ## Incarnons on
 
@@ -53,6 +53,7 @@ Torid, Dual Toxocyst, Burston Prime, Ruvox, Latron Prime, Synoid Gammacor, Soma 
 - **Tenet Arca Plasmor** — Garuda primary. Viral A, no riven. Acri-gelitio is B only — Electric eats Viral. Toxin 51.3%, fuse to 60%. Not a Torid. Not Mesa / Narin / Oraxia / Nidus.
 - **Coda Hirudo** as the 4 — Talons stay Seeking / Blending. Punch config only. Not Ruvox. Not Uriel.
 - **Laetum** — Koumei hip. Devouring Attrition. No crit mods. Not Dual Tox. Not Mesa.
+- **Vinquibus** — Sirius & Orion. Occupies primary **and** melee. Influence bayonet, Viral + HM rifle. Not Uriel — Torid + Ruvox stay. Not DA.
 - Viral guns into Deep Archimedea / Anatomica — Murmur is **−50% Viral**. Strun A + Sagek A. TAP **B**. Not Phage A, not Torid A, not Burston A, not Bubonico, not Proboscis, not Torxica A, not Dread A, not Sicarus A, not Mutalist A, not TAP A, not Laetum A.
 
 ## Combining reminder

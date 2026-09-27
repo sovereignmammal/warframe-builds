@@ -62,7 +62,7 @@ Orion: **2 → 3 → 1**. Swap. Sirius: **3** the well → **2** motes → **1**
 
 ## Weapons
 
-Whatever you already shoot. **Do not** steal Torid (Uriel), Glaxion (Narin), TAP (Garuda), Brakk (Mesa), Dual Tox (Uriel), Aksondol (Narin), Synapse (Nidus), Sicarus, or Dread’s riven. **Sun & Moon** when you swing. Pride / Wrath have **no** signature bonus.
+**Vinquibus** — rifle + bayonet, both slots ([vinquibus.md](vinquibus.md)). Pride / Wrath have **no** signature bonus. Hip is free. **Do not** steal Torid (Uriel), Glaxion (Narin), TAP (Garuda), Brakk (Mesa), Dual Tox (Uriel), Aksondol (Narin), Synapse (Nidus), Sicarus, or Dread’s riven. Uriel keeps Ruvox. Sun & Moon stays on other frames.
 
 ## Shards
 
