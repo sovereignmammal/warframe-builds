@@ -39,7 +39,7 @@ Augment is **+50%** gem duration, multiplicative. Base **30s → 45s** before Co
 
 ## Weapons
 
-Whatever you already shoot. Gem paints Heat / Cold / Toxin / Electric on weapon hits. **Do not** steal Torid (Uriel), Glaxion (Narin), Brakk (Mesa), Dual Tox (Uriel), Torxica (Narin), Synapse (Nidus), Sicarus, Dread’s riven, TAP (Garuda), or Laetum (Koumei). **Venato Prime** when you swing ([venato-prime.md](venato-prime.md)). Tau stacks. Influence. **Corufell Prime** if you want the gunblade ([corufell-prime.md](corufell-prime.md)). Sun & Moon stays on other frames. Steflos Prime if you have it — not a steal.
+Whatever you already shoot. Gem paints Heat / Cold / Toxin / Electric on weapon hits. **Do not** steal Torid (Uriel), Glaxion (Narin), Brakk (Mesa), Dual Tox (Uriel), Torxica (Narin parked), Aksondol (Narin), Synapse (Nidus), Sicarus, Dread’s riven, TAP (Garuda), or Laetum (Koumei). **Venato Prime** when you swing ([venato-prime.md](venato-prime.md)). Tau stacks. Influence. **Corufell Prime** if you want the gunblade ([corufell-prime.md](corufell-prime.md)). Sun & Moon stays on other frames. Steflos Prime if you have it — not a steal.
 
 ## Shards
 

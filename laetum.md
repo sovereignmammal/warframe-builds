@@ -2,7 +2,7 @@
 
 Zariman Incarnon pistol. Base is Slash semi. Form is auto **Impact** + **2m Radiation** boom. Charge **12** weakpoints, alt-fire. Form mag is its own pool (**216** at full). **22% / 2.2x / 22%.** Disposition junk.
 
-**Devouring Attrition** is the gun: **50%** of non-crits deal **+2000%**. **Do not** crit mods. **Koumei** hip — Loading wants *your* kills. Dual Tox stays Uriel. Brakk stays Mesa. Torxica stays Narin. Tysis stays Nidus. Grimoire stays Garuda. Scyotid stays Oraxia.
+**Devouring Attrition** is the gun: **50%** of non-crits deal **+2000%**. **Do not** crit mods. **Koumei** hip — Loading wants *your* kills. Dual Tox stays Uriel. Brakk stays Mesa. Aksondol stays Narin. Tysis stays Nidus. Grimoire stays Garuda. Scyotid stays Oraxia.
 
 ## Evolutions
 

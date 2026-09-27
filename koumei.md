@@ -67,7 +67,7 @@ Passive can highlight an empty slot. Swap to whatever it picked.
 
 **No signature bonus** on Higasa or Amanata. Do not use them because they are hers.
 
-Passive lights a slot — that gun has to *kill*. **Laetum** when it picks secondary ([laetum.md](laetum.md)). Park a real primary (Proboscis, Burston when free). **Amanata** when it picks melee ([amanata.md](amanata.md)). **Sun & Moon** on other frames. **Do not** steal Torid / Brakk / Dual Tox / Synapse / Torxica.
+Passive lights a slot — that gun has to *kill*. **Laetum** when it picks secondary ([laetum.md](laetum.md)). Park a real primary (Proboscis, Burston when free). **Amanata** when it picks melee ([amanata.md](amanata.md)). **Sun & Moon** on other frames. **Do not** steal Torid / Brakk / Dual Tox / Synapse / Aksondol.
 
 Higasa is an umbrella with a Blast beam. Fine if you already own it. Do not farm Fate Pearls for a Higasa bonus that is not in the game. **Amanata Pressure** is the Fate Pearl spend.
 

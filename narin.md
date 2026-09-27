@@ -1,6 +1,6 @@
 # Narin — Iceblade
 
-**3** paints Cold. **2** drinks it. **4** is the dance — full Ice or it does not cast. Companion: **Panzer**. **Tenet Glaxion + Dual Coda Torxica.**
+**3** paints Cold. **2** drinks it. **4** is the dance — full Ice or it does not cast. Companion: **Panzer**. **Tenet Glaxion + Aksondol.**
 
 Ice fills when **1 / 2 / 3** hit. 4 spends the meter. **Do not Precision Intensify.** 2, 3, and 4 all want global Strength. **Do not Catalyzing.** 2 fills shields, then Overguard. Guardian is fine.
 
@@ -43,7 +43,7 @@ Passive **Sangodae**: Cold stacks on kills can drop a pickup. Guns and abilities
 
 ## Weapons
 
-**Tenet Glaxion** ([tenet-glaxion.md](tenet-glaxion.md)) + **Dual Coda Torxica** ([dual-coda-torxica.md](dual-coda-torxica.md)). 3’s vulnerability is Cold — Glaxion is the beam. Torxica spores paint extra Cold for 2. **Sangodae pickup is Glaxion’s** — on Torxica the leftover Heat + pickup Cold becomes Blast for **10s** and Flare dies. **Sun & Moon** when 4 is down. **Do not** steal Torid, Brakk, Dual Tox, Synapse, Sicarus, or Dread’s riven.
+**Tenet Glaxion** ([tenet-glaxion.md](tenet-glaxion.md)) + **Aksondol** ([aksondol.md](aksondol.md)). 3’s vulnerability is Cold — Glaxion is the beam. Reload pulse paints Cold for 2. **Sangodae pickup is fine on both** — leftover Cold. Torxica Heat + pickup is still Blast. **Sun & Moon** when 4 is down. **Do not** steal Torid, Brakk, Dual Tox, Synapse, Sicarus, or Dread’s riven.
 
 ## Shards
 

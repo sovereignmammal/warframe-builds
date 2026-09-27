@@ -15,7 +15,7 @@
 
 ## Other frames (built, not on the 8-loadout bar)
 
-Dante, Trinity, Ember, Frost, Qorvex, Koumei, Umbra, Jade — see their files. **Nidus** — Coda Synapse / Tysis / Pathocyst + Helminth Charger ([nidus.md](nidus.md)). **Xaku Prime** — Grasp / Gaze / Untime, Nautilus Prime ([xaku.md](xaku.md)). **Revenant Prime** — Mesmer / Reave, Panzer ([revenant.md](revenant.md)). **Narin** — Ice dancer, Glaxion + Torxica, Panzer ([narin.md](narin.md)). **Citrine Prime** — Prismatic Companion, Vizier Predasite, Venato Prime ([citrine.md](citrine.md)). Gammacor parked.
+Dante, Trinity, Ember, Frost, Qorvex, Koumei, Umbra, Jade — see their files. **Nidus** — Coda Synapse / Tysis / Pathocyst + Helminth Charger ([nidus.md](nidus.md)). **Xaku Prime** — Grasp / Gaze / Untime, Nautilus Prime ([xaku.md](xaku.md)). **Revenant Prime** — Mesmer / Reave, Panzer ([revenant.md](revenant.md)). **Narin** — Ice dancer, Glaxion + Aksondol, Panzer ([narin.md](narin.md)). **Citrine Prime** — Prismatic Companion, Vizier Predasite, Venato Prime ([citrine.md](citrine.md)). Gammacor parked.
 
 ## Incarnons on
 
@@ -36,7 +36,8 @@ Torid, Dual Toxocyst, Burston Prime, Ruvox, Latron Prime, Synoid Gammacor, Soma 
 - **Proboscis Cernos** — not a Torid. Gun Larva. 9m pull / Viral boom. Not on Khora or Nidus.
 - **Mutalist Cernos** — not Proboscis. Split Flights + Primed Firestorm clouds. Not a Torid.
 - Dual Tox / Gammacor on Mesa or Oraxia.
-- **Dual Coda Torxica** — Narin hip. Heat valence, fuse to 60%. Spores paint Cold. Not Dual Tox. Not Mesa / Nidus / Oraxia.
+- **Dual Coda Torxica** — parked. Heat valence, fuse to 60%. Spores paint Cold. Not Dual Tox. Not Mesa / Nidus / Oraxia. Aksondol is Narin’s hip.
+- **Aksondol** — Narin hip. Innate Cold. Reload pulse. Corrosive leftover Cold. Not Dual Tox. Not Mesa.
 - **Coda Tysis** on Mesa — Brakk owns that hip. Heat valence stays Heat; do not Vice to Electric.
 - Hound on Mesa (overshields).
 - Vasca on Garuda.
