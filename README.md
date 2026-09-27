@@ -83,6 +83,7 @@ Finalized loadouts. Open a file, build it in-game.
 | [caustacyst.md](caustacyst.md) | Nidus backup scythe. Innate Corrosive. Strain Infection. |
 | [coda-synapse.md](coda-synapse.md) | Nidus beam. Magnetic valence. Teeming Virulence. Not Torid. |
 | [coda-pathocyst.md](coda-pathocyst.md) | Nidus Influence glaive. Innate Viral. Strain Infection. |
+| [coda-hirudo.md](coda-hirudo.md) | Garuda punch. Crit life steal. Influence. Talons stay the 4. |
 | [dex-nikana.md](dex-nikana.md) | Combo/crit. Umbra A / Voruna B. |
 | [ruvox.md](ruvox.md) | Uriel Incarnon fists. Influence slam. |
 | [war-prime.md](war-prime.md) | Uriel slam blade. Influence. No Heat. |
