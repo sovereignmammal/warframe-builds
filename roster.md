@@ -15,7 +15,7 @@
 
 ## Other frames (built, not on the 8-loadout bar)
 
-Dante, Trinity, Ember, Frost, Qorvex, Koumei, Umbra, Jade — see their files. **Nidus** — Coda Synapse / Tysis / Pathocyst + Helminth Charger ([nidus.md](nidus.md)). **Xaku Prime** — Grasp / Gaze / Untime, Nautilus Prime ([xaku.md](xaku.md)). **Revenant Prime** — Mesmer / Reave, Panzer ([revenant.md](revenant.md)). **Narin** — Ice dancer, Glaxion + Torxica, Panzer ([narin.md](narin.md)). **Citrine Prime** — Prismatic Companion, Vizier Predasite, Corufell Prime ([citrine.md](citrine.md)). Gammacor parked.
+Dante, Trinity, Ember, Frost, Qorvex, Koumei, Umbra, Jade — see their files. **Nidus** — Coda Synapse / Tysis / Pathocyst + Helminth Charger ([nidus.md](nidus.md)). **Xaku Prime** — Grasp / Gaze / Untime, Nautilus Prime ([xaku.md](xaku.md)). **Revenant Prime** — Mesmer / Reave, Panzer ([revenant.md](revenant.md)). **Narin** — Ice dancer, Glaxion + Torxica, Panzer ([narin.md](narin.md)). **Citrine Prime** — Prismatic Companion, Vizier Predasite, Venato Prime ([citrine.md](citrine.md)). Gammacor parked.
 
 ## Incarnons on
 
@@ -44,7 +44,8 @@ Torid, Dual Toxocyst, Burston Prime, Ruvox, Latron Prime, Synoid Gammacor, Soma 
 - **Xoris** as a general stick — Sister / Granum only. Sun & Moon stays all-frame. Not on Khora.
 - **Virulenta** as the all-frame stick — innate Viral. Sun & Moon stays. Not on Garuda / Voruna / Khora / Nidus / Uriel / Xaku.
 - **Amanata** as the all-frame stick — Koumei only. Sun & Moon stays.
-- **Corufell Prime** as the all-frame stick — Citrine only. Sun & Moon stays. Un-Prime is junk.
+- **Corufell Prime** as the all-frame stick — Citrine gunblade only. Venato is her lights. Sun & Moon stays. Un-Prime is junk.
+- **Venato Prime** as the all-frame stick — Citrine only. Caliban keeps the orb stick. Sun & Moon stays.
 - **Tenet Envoy** — not a Torid. Toxin 33% valence, fuse to 60%. Guided rocket.
 - **Dread Incarnon** — not a Torid. Riven Sati-concitis stays on. Do not roll.
 - **Sicarus Prime Incarnon** — not Dual Tox. Riven Visi-ignicron stays on. Do not roll.

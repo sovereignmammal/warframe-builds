@@ -4,7 +4,7 @@ Heavy Scythe. Heavy becomes a **Heat** gunblade. Two shots. Infinite punch-throu
 
 **26% / 2.4x / 14%.** Mostly Impact on lights. **Electricity must stay uncombined.** Innate Heat on the projectile is leftover.
 
-**Citrine only.** Does not replace Sun & Moon. Dual Ether stays Khora B. Dex stays Umbra / Voruna. Pathocyst stays Nidus. Ruvox / War Prime stay Uriel. Amanata stays Koumei. Un-Prime is junk.
+**Citrine only** as a gunblade. Venato Prime is her Influence lights ([venato-prime.md](venato-prime.md)). Does not replace Sun & Moon. Dual Ether stays Khora B. Dex stays Umbra / Voruna. Pathocyst stays Nidus. Ruvox / War Prime stay Uriel. Amanata stays Koumei. Un-Prime is junk.
 
 ## Config A — Influence heavy (Citrine)
 
