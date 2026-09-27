@@ -23,13 +23,13 @@ Aura **Brief Respite** *(matches Vazarin)*. Exilus **Natural Talent** until Ambe
 | 5 | Stretch |
 | 6 | Equilibrium |
 | 7 | **Catalyzing Shields** |
-| 8 | Rolling Guard |
+| 8 | Adaptation |
 | Arcane 1 | Molt Augmented |
 | Arcane 2 | Arcane Energize |
 
-**3** is the well. Recast inside it to refresh, not move. **2** motes. **1** the scythe — pickups come home. **45%** efficiency is fine. Swap first if you need the **90%**.
+**3** is the well. Recast inside it to refresh, not move. **2** motes. **1** the scythe — pickups come home. **45%** efficiency is fine. Swap first if you need the **90%**. Clash dash is the i-frames. Adaptation stacks with Sanctuary.
 
-**Not** Transient Fortitude — 2 / 3 die. **Not** Overextended. **Not** a second Growing Power. **Not** Guardian.
+**Not** Rolling Guard. **Not** Transient Fortitude — 2 / 3 die. **Not** Overextended. **Not** a second Growing Power. **Not** Guardian.
 
 ## Orion — Growing Power
 
@@ -44,13 +44,13 @@ Aura is **Naramon**. **1 forma** — aura → **V** for Growing Power. Same 8 as
 | 5 | Stretch |
 | 6 | Equilibrium |
 | 7 | **Catalyzing Shields** |
-| 8 | Rolling Guard |
+| 8 | Adaptation |
 | Arcane 1 | Molt Augmented |
 | Arcane 2 | Arcane Energize |
 
-**2** Shell first. **3** the hole. **1** the pack — full strip, shoves Horizon. **45%** efficiency. Slash is **15** energy.
+**2** Shell first. **3** the hole. **1** the pack — full strip, shoves Horizon. **45%** efficiency. Slash is **15** energy. Clash dash is the i-frames.
 
-**Not** a second Brief Respite. **Not** Precision Intensify. **Not** Helminth 1.
+**Not** Rolling Guard. **Not** a second Brief Respite. **Not** Precision Intensify. **Not** Helminth 1.
 
 ## Play
 
