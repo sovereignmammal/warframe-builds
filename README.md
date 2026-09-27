@@ -40,6 +40,7 @@ Finalized loadouts. Open a file, build it in-game.
 | [revenant.md](revenant.md) | Mesmer tank. Reave. Roar over 4. |
 | [narin.md](narin.md) | Ice dancer. Glaxion + Aksondol. 1 forma aura. |
 | [citrine.md](citrine.md) | Prismatic Companion on Vizier Predasite. Gem walks. |
+| [sirius-orion.md](sirius-orion.md) | Two sons. Two auras. Clash. |
 
 ## Weapons
 
