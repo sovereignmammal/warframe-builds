@@ -53,9 +53,9 @@ Torid, Dual Toxocyst, Burston Prime, Ruvox, Latron Prime, Synoid Gammacor, Soma 
 - **Tenet Arca Plasmor** — Garuda primary. Viral A, no riven. Acri-gelitio is B only — Electric eats Viral. Toxin 51.3%, fuse to 60%. Not a Torid. Not Mesa / Narin / Oraxia / Nidus.
 - **Coda Hirudo** as the 4 — Talons stay Seeking / Blending. Punch config only. Not Ruvox. Not Uriel.
 - **Laetum** — Koumei hip. Devouring Attrition. No crit mods. Not Dual Tox. Not Mesa.
-- **Phenmor** — Koumei primary. Hexa-ignitox stays on. Do not roll. Heat + Toxin = Gas. −CC is Attrition. Not Viral. Not Torid. Anatomica is fine.
+- **Phenmor** — Koumei primary. Hexa-ignitox stays on. Do not roll. −CC is Attrition. A Gas (riven left of Rime). B rainbow Viral + Heat + Magnetic + form Radiation. Not Torid. A is the DA 8.
 - **Vinquibus** — Sirius & Orion. Occupies primary **and** melee. Influence bayonet, Viral + HM rifle. Not Uriel — Torid + Ruvox stay. Not DA.
-- Viral guns into Deep Archimedea / Anatomica — Murmur is **−50% Viral**. Strun A + Sagek A. TAP **B**. Phenmor A (Gas). Not Phage A, not Torid A, not Burston A, not Bubonico, not Proboscis, not Torxica A, not Dread A, not Sicarus A, not Mutalist A, not TAP A, not Laetum A.
+- Viral guns into Deep Archimedea / Anatomica — Murmur is **−50% Viral**. Strun A + Sagek A. TAP **B**. Phenmor **A**. Not Phenmor B, not Phage A, not Torid A, not Burston A, not Bubonico, not Proboscis, not Torxica A, not Dread A, not Sicarus A, not Mutalist A, not TAP A, not Laetum A.
 
 ## Combining reminder
 

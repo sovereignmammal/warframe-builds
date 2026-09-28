@@ -76,7 +76,7 @@ Finalized loadouts. Open a file, build it in-game.
 | [tenet-envoy.md](tenet-envoy.md) | Guided rocket. Toxin 33%. Viral + Heat + HM. Not Torid. |
 | [tenet-arca-plasmor.md](tenet-arca-plasmor.md) | Garuda shotgun. Viral A. Riven Magnetic B. |
 | [laetum.md](laetum.md) | Koumei hip. Devouring Attrition. No crit mods. |
-| [phenmor.md](phenmor.md) | Koumei primary. Attrition. Riven Gas. Do not roll. |
+| [phenmor.md](phenmor.md) | Koumei primary. Attrition. Gas A / rainbow B. Do not roll. |
 | [grimoire.md](grimoire.md) | Garuda primer book. |
 | [dual-ether.md](dual-ether.md) | Influence. Khora B. |
 | [sun-and-moon.md](sun-and-moon.md) | All-frame Influence. Nidus uses Pathocyst instead. |
