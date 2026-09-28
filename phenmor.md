@@ -38,6 +38,8 @@ Form is **80 m/s** — Swift is the feel. Ready is the transform (reload speed).
 
 Rime is leftover **Cold**. **Do not** another Heat or Toxin — dumps into Gas. **Do not** Critical Delay / Vital Sense / Hammer Shot / Galv Scope / Hunter Munitions — crit **kills** Attrition. **Do not** Infected Clip. **Do not** Thermite. **Do not** Deadhead — PT spray.
 
+**Not** Vile Precision. Form already dumped recoil. **−36%** fire rate is Attrition rolls you do not take. Stabilizer if the spray still bothers you — no FR tax. Terminal Velocity if Swift is not enough.
+
 UI base: **Gas + Cold**. UI form: **Gas + Radiation + Cold**.
 
 Anatomica is fine — this is not Viral. Murmur is **+50% Radiation**. Eat Rime → **Stormbringer** if you want Electric leftover instead of Cold.
