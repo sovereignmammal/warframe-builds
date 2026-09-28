@@ -36,6 +36,8 @@ Form is **80 m/s** — Swift is the feel. Ready is the transform (reload speed).
 | Exilus | **Rifle Ammo Mutation** *(Primed if you have it)* |
 | Arcane | **Primary Blight** *(Merciless if no Blight)* |
 
+Serration + Heavy Caliber + Blight are **one** pile. Attrition still **×21s** the whole thing, so it is not wasted — the second 165% is just the weakest slot once Blight is on. **Do not** eat Serration. Eat Caliber → **Primed Bane** when you are parked on one tileset. Chamber / Aptitude / Elementalist / Vile / Rime are different buckets.
+
 Rime is leftover **Cold**. **Do not** another Heat or Toxin — dumps into Gas. **Do not** Critical Delay / Vital Sense / Hammer Shot / Galv Scope / Hunter Munitions — crit **kills** Attrition. **Do not** Infected Clip. **Do not** Thermite. **Do not** Deadhead — PT spray.
 
 **Not** Vigilante Supplies. Set bonus is leftover crit. Mutation is the ammo. **Not** Vile Precision. Form already dumped recoil. **−36%** fire rate is Attrition rolls you do not take. Stabilizer if the spray still bothers you — no FR tax. Terminal Velocity if Swift is not enough.
