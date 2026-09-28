@@ -33,12 +33,12 @@ Form is **80 m/s** — Swift is the feel. Ready is the transform (reload speed).
 | 6 | Vile Acceleration |
 | 7 | Rime Rounds |
 | 8 | Heavy Caliber |
-| Exilus | Vigilante Supplies |
+| Exilus | **Rifle Ammo Mutation** *(Primed if you have it)* |
 | Arcane | **Primary Blight** *(Merciless if no Blight)* |
 
 Rime is leftover **Cold**. **Do not** another Heat or Toxin — dumps into Gas. **Do not** Critical Delay / Vital Sense / Hammer Shot / Galv Scope / Hunter Munitions — crit **kills** Attrition. **Do not** Infected Clip. **Do not** Thermite. **Do not** Deadhead — PT spray.
 
-**Not** Vile Precision. Form already dumped recoil. **−36%** fire rate is Attrition rolls you do not take. Stabilizer if the spray still bothers you — no FR tax. Terminal Velocity if Swift is not enough.
+**Not** Vigilante Supplies. Set bonus is leftover crit. Mutation is the ammo. **Not** Vile Precision. Form already dumped recoil. **−36%** fire rate is Attrition rolls you do not take. Stabilizer if the spray still bothers you — no FR tax. Terminal Velocity if Swift is not enough.
 
 UI base: **Gas + Cold**. UI form: **Gas + Radiation + Cold**.
 
