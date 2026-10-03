@@ -111,8 +111,5 @@ Finalized loadouts. Open a file, build it in-game.
 ## Hard rules
 
 - Two elemental **mods** combine with each other first. Innate is leftover (or dumps into the same element).
-- **Do not** run Precision Intensify + any other Intensify.
-- **Do not** run Archon Continuity + Primed Continuity.
-- Energy Nexus / Siphon / Dreamer’s Bond **do not work** in Silken Stride.
 - Catalyzing frames: **no** companion overshields (Shield Charger / Guardian).
 - Guns and pets are **not** unique. Every loadout can wear the same item. Config 8s and rivens are shared — changing A changes it on every frame that uses A.
