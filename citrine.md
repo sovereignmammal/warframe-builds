@@ -2,36 +2,36 @@
 
 **3** is the frame. Gem rides the pet. Recast before it dies. Companion: **Vizier Predasite**. Walking pet or the gem sits on the floor. Vasca until the dog is gilded.
 
-**Do not** Panzer — **Panzer Devolution** is a larva, augment refuses it. **Do not** Nautilus / Oxylus / any sentinel. **Do not** steal Juno Ty, Aga, Sahasa, Huras, Venari, or the Charger. **Do not Diversified Denial.**
+**Do not** Panzer — **Panzer Devolution** is a larva, augment refuses it. **Do not** sentinels. **Do not Diversified Denial.**
 
-**Do not Precision Intensify.** 2 and 3 need global Strength. **Do not Catalyzing.** 2 is the DR. Guardian is fine.
+**Do not Precision Intensify.** 2 and 3 need global Strength. **Do not Catalyzing.** 2 is the DR. Persistence is the health gate.
 
-Preserving Shell hits **90%** DR at **225%** Strength. Overextended still clears that with Growing Power.
+Preserving Shell hits **90%** DR at **225%** Strength. This 8 is **254%**. Range is **Archon Stretch** only — **137%**. Aurora is tight.
 
 ## Config A — gem on the cat
 
-Aura **Growing Power**. Exilus **Natural Talent** (Amber is on Garuda).
+Aura **Corrosive Projection**. Exilus **Handspring**.
 
 | Slot | Mod |
 | --- | --- |
-| 1 | **Prismatic Companion** |
-| 2 | Blind Rage |
-| 3 | Umbral Intensify *(Intensify if no Umbral)* |
-| 4 | Overextended |
-| 5 | Stretch |
-| 6 | Primed Continuity |
-| 7 | Primed Flow |
-| 8 | Equilibrium |
-| Arcane 1 | Molt Augmented |
-| Arcane 2 | Arcane Energize |
+| 1 | Archon Vitality |
+| 2 | Archon Stretch |
+| 3 | Archon Flow |
+| 4 | Umbral Intensify |
+| 5 | Blind Rage |
+| 6 | Health Conversion |
+| 7 | **Prismatic Companion** |
+| 8 | Umbral Fiber |
+| Arcane 1 | Arcane Persistence |
+| Arcane 2 | Arcane Blessing |
 
-Augment is **+50%** gem duration, multiplicative. Base **30s → 45s** before Continuity. Range is the aurora around the cat. **45% efficiency is fine** — 1 drops orbs, Equilibrium eats them.
+**45%** efficiency. **100%** duration. Augment is **+50%** gem duration, multiplicative — **30s → 45s**. 1 drops health orbs: Blessing stacks HP, Conversion stacks armor, Flow/Stretch eat Cold / Electric. Vitality doubles gem Heat.
 
-**Not** Archon Continuity — Primed Continuity stays. **Not** Recrystalize on this 8 — 4 is the Helminth dump. Archon Vitality if you want doubled gem Heat: eat Flow.
+**Not** Overextended. **Not** Primed Continuity on this 8. **Not** Equilibrium — Archon Stretch + Flow are the energy. **Not** Recrystalize on this 8 — 4 is the Helminth dump.
 
 ## Play
 
-**3 first.** Gem glues to Vizier. **2** up. **1** the pack — Slash orbs. Shoot. The dog walks the aurora; companion swings also fire gem beams. Recast 3 when the timer is low, not at zero. Recast 2 before the shell drops. 1 is free-action, keep flicking.
+**3 first.** Gem glues to Vizier. **2** up. **1** the pack — Slash orbs. Shoot. The dog walks the aurora; companion swings also fire gem beams. Recast 3 when the timer is low, not at zero. Recast 2 before the shell drops. 1 is free-action, keep flicking. Persistence wants health hits; Blessing wants the orbs.
 
 ## Helminth
 
@@ -39,11 +39,11 @@ Augment is **+50%** gem duration, multiplicative. Base **30s → 45s** before Co
 
 ## Weapons
 
-Whatever you already shoot. Gem paints Heat / Cold / Toxin / Electric on weapon hits. **Do not** steal Torid (Uriel), Glaxion (Narin), Brakk (Mesa), Dual Tox (Uriel), Torxica (Narin parked), Aksondol (Narin), Synapse (Nidus), Sicarus, Dread’s riven, TAP (Garuda), or Laetum (Koumei). **Venato Prime** when you swing ([venato-prime.md](venato-prime.md)). Tau stacks. Influence. **Corufell Prime** if you want the gunblade ([corufell-prime.md](corufell-prime.md)). Sun & Moon stays on other frames. Steflos Prime if you have it — not a steal.
+Gem paints Heat / Cold / Toxin / Electric on weapon hits. **Venato Prime** when you swing ([venato-prime.md](venato-prime.md)). Tau stacks. Influence. **Corufell Prime** if you want the gunblade ([corufell-prime.md](corufell-prime.md)).
 
 ## Shards
 
-Crimson Strength. Do not pull Amber off Garuda. Next two yellows go here.
+Crimson Strength.
 
 ## Companion
 

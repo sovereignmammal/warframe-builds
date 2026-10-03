@@ -48,7 +48,7 @@ Finalized loadouts. Open a file, build it in-game.
 | [xaku.md](xaku.md) | Grasp guns. Gaze strip. Untime pause. Nautilus Cordon. |
 | [revenant.md](revenant.md) | Mesmer tank. Reave. Roar over 4. |
 | [narin.md](narin.md) | Ice dancer. Glaxion + Aksondol. 1 forma aura. |
-| [citrine.md](citrine.md) | Prismatic Companion on Vizier Predasite. Gem walks. |
+| [citrine.md](citrine.md) | Prismatic Companion. Archon trio. Persistence health tank. |
 | [sirius-orion.md](sirius-orion.md) | Two sons. Two auras. Clash. Vinquibus. |
 | [titania.md](titania.md) | Razorwing Blitz. Sunder over 3. Dex Pixia Viral + Heat. |
 
