@@ -4,18 +4,27 @@
 
 | Frame | Primary | Secondary | Melee | Pet |
 | --- | --- | --- | --- | --- |
-| **Oraxia** | **Fulmin Prime** | Scyotid | Spinnerex (parked in 4) | Oxylus + Seismic Bond |
-| **Mesa** | Latron Incarnon | **Kuva Brakk** | — | Sahasa |
+| **Banshee SP** | — | — | — | — |
 | **Caliban** | Burston Config C or Torid | Gammacor | Broken Scepter (orbs) | Sahasa |
-| **Khora** | whatever (Dexterity) | optional primer | Whipclaw / Dual Ether | Venari Heal (A) / Attack (B) |
-| **Voruna** | Burston / Torid | Gammacor | Dex Nikana B / Ulfrun | Aga Umbonek |
+| **Citrine SP** | whatever | whatever | Venato Prime / Corufell | Vizier |
 | **Garuda** | **Tenet Arca Plasmor** | Grimoire primer | **Talons** | Juno Ty |
+| **Jade SP** | Dexterity park | — | Sun & Moon | Panzer |
+| **Khora Farm** | whatever (Dexterity) | optional primer | Whipclaw / Dual Ether | Venari Heal (A) / Attack (B) |
+| **Koumei SP** | Phenmor | Laetum | Amanata | Panzer |
+| **Mesa** | Latron Incarnon | **Kuva Brakk** | — | Sahasa |
+| **Narin SP** | Tenet Glaxion | Aksondol | Sun & Moon | Panzer |
+| **Nidus Pet** | Coda Synapse | Coda Tysis | Pathocyst | Helminth Charger |
+| **Oraxia** | **Fulmin Prime** | Scyotid | Spinnerex (parked in 4) | Oxylus + Seismic Bond |
+| **S&O** | Vinquibus | whatever | Vinquibus | Panzer |
 | **Saryn** | Kuva Sobek (A) / Torid (B) | — | Lash is melee | Aga Umbonek |
+| **Titania** | Kuva (Nahiss Hodro) holstered | Dex Pixia in 4 / Torxica down | Diwata in 4 / Sun & Moon down | — |
+| **Trinity SP** | whatever | whatever | Sun & Moon | Panzer |
 | **Uriel** | Torid Incarnon | Dual Tox / Brakk | Ruvox / War Prime | Demonic Vermin |
+| **Voruna SP** | Burston / Torid | Gammacor | Dex Nikana B / Ulfrun | Aga Umbonek |
 
-## Other frames (built, not on the 8-loadout bar)
+## Other frames (built, not on this bar)
 
-Dante, Trinity, Ember, Frost, Qorvex, Koumei, Umbra, Jade — see their files. **Nidus** — Coda Synapse / Tysis / Pathocyst + Helminth Charger ([nidus.md](nidus.md)). **Xaku Prime** — Grasp / Gaze / Untime, Nautilus Prime ([xaku.md](xaku.md)). **Revenant Prime** — Mesmer / Reave, Panzer ([revenant.md](revenant.md)). **Narin** — Ice dancer, Glaxion + Aksondol, Panzer ([narin.md](narin.md)). **Citrine Prime** — Prismatic Companion, Vizier Predasite, Venato Prime ([citrine.md](citrine.md)). **Sirius & Orion** — Clash, Vinquibus, Panzer ([sirius-orion.md](sirius-orion.md)). **Koumei** — Phenmor + Laetum. Gammacor parked.
+Dante, Ember, Frost, Qorvex, Umbra — see their files. **Xaku Prime** — Grasp / Gaze / Untime, Nautilus Prime ([xaku.md](xaku.md)). **Revenant Prime** — Mesmer / Reave, Panzer ([revenant.md](revenant.md)). Gammacor parked.
 
 ## Incarnons on
 

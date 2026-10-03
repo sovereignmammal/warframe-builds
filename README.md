@@ -6,14 +6,23 @@ Finalized loadouts. Open a file, build it in-game.
 
 | Loadout | File | Pet |
 | --- | --- | --- |
-| Oraxia SP | [oraxia.md](oraxia.md) | Oxylus |
-| Mesa SP Blind | [mesa.md](mesa.md) | Sahasa |
+| Banshee SP | — | — |
 | Caliban 4 Spam | [caliban.md](caliban.md) | Sahasa |
-| Khora Farm | [khora.md](khora.md) | Venari |
-| Voruna (General/Mixed) | [voruna.md](voruna.md) | Aga Umbonek |
+| Citrine SP | [citrine.md](citrine.md) | Vizier |
 | Garuda Melee SP | [garuda.md](garuda.md) | Juno Ty |
+| Jade SP | [jade.md](jade.md) | Panzer |
+| Khora Farm | [khora.md](khora.md) | Venari |
+| Koumei SP | [koumei.md](koumei.md) | Panzer |
+| Mesa SP Blind | [mesa.md](mesa.md) | Sahasa |
+| Narin SP | [narin.md](narin.md) | Panzer |
+| Nidus Pet | [nidus.md](nidus.md) | Helminth Charger |
+| Oraxia SP | [oraxia.md](oraxia.md) | Oxylus |
+| S&O | [sirius-orion.md](sirius-orion.md) | Panzer |
 | Saryn Lash/Spore | [saryn.md](saryn.md) | Aga Umbonek |
+| Titania | [titania.md](titania.md) | — |
+| Trinity SP | [trinity.md](trinity.md) | Panzer |
 | Uriel Caster | [uriel.md](uriel.md) | Huras |
+| Voruna SP | [voruna.md](voruna.md) | Aga Umbonek |
 
 ## Frames
 
@@ -41,6 +50,7 @@ Finalized loadouts. Open a file, build it in-game.
 | [narin.md](narin.md) | Ice dancer. Glaxion + Aksondol. 1 forma aura. |
 | [citrine.md](citrine.md) | Prismatic Companion on Vizier Predasite. Gem walks. |
 | [sirius-orion.md](sirius-orion.md) | Two sons. Two auras. Clash. Vinquibus. |
+| [titania.md](titania.md) | Razorwing Blitz. Dex Pixia Viral + Heat. |
 
 ## Weapons
 
@@ -93,7 +103,8 @@ Finalized loadouts. Open a file, build it in-game.
 | [xoris.md](xoris.md) | Sister hunt. Heavy Influence throw. Granum hand. |
 | [corufell-prime.md](corufell-prime.md) | Citrine gunblade scythe. Influence heavy. No Heat mods. |
 | [venato-prime.md](venato-prime.md) | Citrine Tau scythe. Influence lights. Sentient Incision. |
-| [vinquibus.md](vinquibus.md) | Sirius & Orion bayonet. Rifle + melee. Influence. Not Uriel. |
+| [vinquibus.md](vinquibus.md) | Sirius & Orion bayonet. Rifle + melee. Influence. |
+| [dex-pixia-prime.md](dex-pixia-prime.md) | Titania Razorwing pistols. Viral + Heat. Flare. |
 | [roster.md](roster.md) | Who wears what. Skip list. |
 | [companions.md](companions.md) | Pets, assignments, locked 8s. |
 
@@ -104,3 +115,4 @@ Finalized loadouts. Open a file, build it in-game.
 - **Do not** run Archon Continuity + Primed Continuity.
 - Energy Nexus / Siphon / Dreamer’s Bond **do not work** in Silken Stride.
 - Catalyzing frames: **no** companion overshields (Shield Charger / Guardian).
+- Guns and pets are **not** unique. Every loadout can wear the same item. Config 8s and rivens are shared — changing A changes it on every frame that uses A.

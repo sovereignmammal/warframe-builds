@@ -6,7 +6,7 @@ Hitscan dual pistols. **25% / 2.4x / 28%.** Mag **160**. Rank **40**. Slash-weig
 
 Kill (or status kill) → **3** spores in **20m**, closest first. Guaranteed **Cold/s** + **50%** Torxica-only vuln for **20s**. Vuln double-dips DoTs like faction. One spore per enemy. Reticle grows on the glow.
 
-**Narin** hip was this. **Aksondol** is her signatures now ([aksondol.md](aksondol.md)). Park it. Spores still paint Cold. Not Dual Tox. **Not Mesa.** **Not** Tysis. **Not** Scyotid. Dante keeps Noctua.
+**Narin** hip was this. **Aksondol** is her signature now ([aksondol.md](aksondol.md)). Titania parks it while Razorwing is up. Spores still paint Cold.
 
 ## Config A — Viral + leftover Heat (Flare)
 
