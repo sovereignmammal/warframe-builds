@@ -27,15 +27,17 @@ Aura **Corrosive Projection**. Exilus **Handspring**.
 
 **45%** efficiency. **100%** duration. Augment is **+50%** gem duration, multiplicative — **30s → 45s**. 1 drops health orbs: Blessing stacks HP, Conversion stacks armor, Flow/Stretch eat Cold / Electric. Vitality doubles gem Heat.
 
-**Not** Overextended. **Not** Primed Continuity on this 8. **Not** Equilibrium — Archon Stretch + Flow are the energy. **Not** Recrystalize on this 8 — 4 is the Helminth dump.
+**Not** Overextended. **Not** Primed Continuity on this 8. **Not** Equilibrium — Archon Stretch + Flow are the energy. **Not** Recrystalize — 4 is Effigy.
 
 ## Play
 
-**3 first.** Gem glues to Vizier. **2** up. **1** the pack — Slash orbs. Shoot. The dog walks the aurora; companion swings also fire gem beams. Recast 3 when the timer is low, not at zero. Recast 2 before the shell drops. 1 is free-action, keep flicking. Persistence wants health hits; Blessing wants the orbs.
+**3 first.** Gem glues to Vizier. **2** up. **4** the sentry on the lane / obj. **1** the pack — Slash orbs. Shoot. The dog walks the aurora; companion swings also fire gem beams. Recast 3 when the timer is low, not at zero. Recast 2 before the shell drops. 1 is free-action, keep flicking. Persistence wants health hits; Blessing wants the orbs.
+
+Effigy is **50** energy + **10**/s. **45%** efficiency hurts the drain. **−50%** armor while it is up — Conversion + Fiber still hold. **+20%** move. Orbs and Energize still tick. Recast 4 to pick the pelt back up.
 
 ## Helminth
 
-**Roar over Crystallize (4).** Keep 1 / 2 / 3. Native 4 until you have Roar. **Do not** overwrite Prismatic Gem or Fractured Blast.
+**Effigy over Crystallize (4).** Keep 1 / 2 / 3. **Do not** overwrite Prismatic Gem or Fractured Blast.
 
 ## Weapons
 
