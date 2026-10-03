@@ -19,17 +19,19 @@ Aura **Dreamer’s Bond**. Exilus **Sure Footed**.
 | Arcane 1 | Arcane Energize |
 | Arcane 2 | Arcane Nullifier |
 
-**175%** efficiency (cap). **250%** range (Stretch + Overextended + Cunning). **90%** duration. Hatred is **+65%** shields and **20%** airborne DR (Boreal set, 1 piece). Efficiency on Hatred is over the cap — DR is why it is there.
+**175%** efficiency (cap). **250%** range (Stretch + Overextended + Cunning). **90%** duration. Hatred is **+65%** shields and **20%** airborne DR (Boreal set, 1 piece). Efficiency on Hatred is over the cap — DR is why it is there. Range is **Thermal Sunder**.
 
-**Not** Blind Rage. **Not** Precision Intensify. **Not** Catalyzing. **Not** Growing Power on this 8.
+**Not** Blind Rage. **Not** Precision Intensify. **Not** Catalyzing. **Not** Growing Power on this 8. **Not** Lantern.
 
 ## Play
 
-**4** up. **2** Spellbind (status cleanse, cheap Blitz stack). **3** Lantern the clump. **1** Tribute. Recast to hold **4** Blitz stacks. Nullifier is Magnetic. Sure Footed is the floor.
+**4** up. **1** Spellbind (status cleanse, cheap Blitz stack). **3** Sunder — tap Cold, hold Heat. Opposite element is **Blast**. Heat then Cold **pulls**. Cold then Heat **shoves**. Recast to hold **4** Blitz stacks. **2** Tribute. Nullifier is Magnetic. Sure Footed is the floor.
+
+Heat Sunder paints for Pixia Flare. **40%** Strength — Sunder is not the nuke. Pixia is.
 
 ## Helminth
 
-**None** on this 8. Blitz lives on 4. Do not overwrite Razorwing.
+**Thermal Sunder over Lantern (3).** Blitz lives on 4. Do not overwrite Razorwing. Do not overwrite Spellbind.
 
 ## Weapons
 
